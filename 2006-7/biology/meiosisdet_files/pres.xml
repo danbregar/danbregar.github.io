@@ -1,0 +1,78 @@
+<xml xmlns:v="urn:schemas-microsoft-com:vml"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:p="urn:schemas-microsoft-com:office:powerpoint"
+ xmlns:oa="urn:schemas-microsoft-com:office:activation">
+ <p:presentation sizeof="screen" gridspacingx="49152" gridspacingy="49152">
+  <p:master id="28" slidesn="1C775B9,7E522260" type="main" href="master28.htm"
+   xmlhref="master28.xml" template="Capsules" layout="title_body"
+   slots="title,body,dateTime,footer,slideNumber">
+   <p:schemes>
+    <p:colorscheme
+     colors="#ffffff,#003366,#666699,#006666,#33cccc,#99cc99,#003366,#cc99ff"/>
+    <p:colorscheme
+     colors="#ffffff,#000000,#808000,#000000,#ffcc99,#99cc00,#336600,#ffcc00"/>
+    <p:colorscheme
+     colors="#6699ff,#ffffff,#006699,#ffffff,#33cccc,#006699,#99cc00,#ffffcc"/>
+    <p:colorscheme
+     colors="#ffffff,#000000,#006600,#9900cc,#33cc33,#ffcc66,#0033cc,#cc0066"/>
+    <p:colorscheme
+     colors="#336699,#ffffff,#000066,#ffffeb,#99ccff,#9999ff,#ccccff,#c68dff"/>
+    <p:colorscheme
+     colors="#006666,#ffffff,#808000,#ffffff,#ffcc66,#00aca8,#cccc00,#33cccc"/>
+    <p:colorscheme
+     colors="#660033,#ffffff,#ffffcc,#ffffff,#ff9900,#cc3300,#ffcc00,#ffcc99"/>
+    <p:colorscheme
+     colors="#000000,#ffffff,#ff0000,#ffffff,#ffcc00,#cc3300,#ff6600,#ff7c80"/>
+   </p:schemes>
+  </p:master>
+  <p:master id="29" slidesn="1C775B9,7E522260" type="title" href="master29.htm"
+   xmlhref="master29.xml" layout="title_subtitle"
+   slots="centerTitle,subTitle,dateTime,footer,slideNumber"/>
+  <p:slide id="1" slidesn="1C775B9,4E4B3660" href="slide0001.htm"
+   masterhref="master29.htm" layout="title_subtitle"
+   slots="centerTitle,subTitle"/>
+  <p:slide id="2" slidesn="1C775B9,F4F93200" href="slide0002.htm"
+   layout="title_body" slots="title,body"/>
+  <p:slide id="3" slidesn="1C775D5,12844290" href="slide0003.htm"
+   layout="title_body" slots="title,body"/>
+  <p:slide id="7" slidesn="1C3DA1D,6E1F5600" href="slide0007.htm"
+   layout="title_body" slots="title,object"/>
+  <p:slide id="4" slidesn="1C775D6,BE29A580" href="slide0004.htm"
+   layout="title_body" slots="title,body"/>
+  <p:slide id="18" slidesn="1C3DA29,3C27EE30" href="slide0018.htm"
+   layout="title_body" slots="title,body"/>
+  <p:slide id="8" slidesn="1C3DA1E,D9B27090" href="slide0008.htm"
+   layout="title_body" slots="title,object"/>
+  <p:slide id="5" slidesn="1C775D7,90D27AC0" href="slide0005.htm"
+   layout="title_body" slots="title,body"/>
+  <p:slide id="9" slidesn="1C3DA1F,824F9200" href="slide0009.htm"
+   layout="title_body" slots="title,object"/>
+  <p:slide id="6" slidesn="1C775D7,E9982830" href="slide0006.htm"
+   layout="title_body" slots="title,body" collapseoutline="t"/>
+  <p:slide id="10" slidesn="1C3DA1F,ADB1AE10" href="slide0010.htm"
+   layout="title_body" slots="title,object"/>
+  <p:slide id="11" slidesn="1C3DA26,626451E0" href="slide0011.htm"
+   layout="title_body" slots="title,body"/>
+  <p:slide id="13" slidesn="1C3DA27,B10C0300" href="slide0013.htm"
+   layout="title_body" slots="title,object"/>
+  <p:slide id="14" slidesn="1C3DA28,2995DC60" href="slide0014.htm"
+   layout="title_body" slots="title,object"/>
+  <p:slide id="15" slidesn="1C3DA28,520FCCA0" href="slide0015.htm"
+   layout="title_body" slots="title,object"/>
+  <p:slide id="16" slidesn="1C3DA28,7BE184B0" href="slide0016.htm"
+   layout="title_body" slots="title,object"/>
+  <p:slide id="19" slidesn="1C3DA29,8F2C5F30" href="slide0019.htm"
+   layout="title_body" slots="title,body"/>
+  <p:slide id="17" slidesn="1C3DA28,C68185B0" href="slide0017.htm"
+   layout="title_body" slots="title,body"/>
+  <p:viewstate type="slideView" restoredleft="346" restoredtop="863"
+   manualadjustleft="t" manualadjusttop="t"/>
+  <p:font name="Arial" charset="0" type="4"/>
+  <p:font name="Wingdings" charset="2" type="6" family="2"/>
+  <p:font name="Times New Roman" charset="0" type="6" family="18"/>
+  <p:headersfooters noheader="t"/>
+  <p:pptdocumentsettings framecolors="WhiteTextOnBlack" hideslideanimation="t"
+   browsersupport="v4"/>
+ </p:presentation>
+ <o:shapedefaults v:ext="edit" spidmax="56324"/>
+</xml>

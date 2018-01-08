@@ -1,0 +1,262 @@
+body
+	{width:370px;
+	height:277px;}
+.TB
+	{mso-special-format:nobullet•;}
+.T
+	{text-align:center;
+	font-family:"Times New Roman";
+	color:black;
+	mso-color-index:3;
+	font-size:141%;}
+.BB
+	{mso-special-format:bullet•;}
+.B
+	{text-align:left;
+	font-family:"Times New Roman";
+	color:black;
+	mso-color-index:1;
+	font-size:103%;}
+.B1B
+	{mso-special-format:bullet–;}
+.B1
+	{text-align:left;
+	font-family:"Times New Roman";
+	color:black;
+	mso-color-index:1;
+	font-size:90%;}
+.B2B
+	{mso-special-format:bullet•;}
+.B2
+	{text-align:left;
+	font-family:"Times New Roman";
+	color:black;
+	mso-color-index:1;
+	font-size:77%;}
+.B3B
+	{mso-special-format:bullet–;}
+.B3
+	{text-align:left;
+	font-family:"Times New Roman";
+	color:black;
+	mso-color-index:1;
+	font-size:64%;}
+.B4B
+	{mso-special-format:bullet»;}
+.B4
+	{text-align:left;
+	font-family:"Times New Roman";
+	color:black;
+	mso-color-index:1;
+	font-size:64%;}
+.NB
+	{mso-special-format:nobullet•;}
+.N
+	{font-family:"Times New Roman";}
+.N1B
+	{mso-special-format:nobullet•;}
+.N1
+	{font-family:"Times New Roman";}
+.N2B
+	{mso-special-format:nobullet•;}
+.N2
+	{font-family:"Times New Roman";}
+.N3B
+	{mso-special-format:nobullet•;}
+.N3
+	{font-family:"Times New Roman";}
+.N4N
+	{mso-special-format:nobullet•;}
+.N4
+	{font-family:"Times New Roman";}
+.OB
+	{mso-special-format:nobullet•;}
+.O
+	{text-align:left;
+	font-family:"Times New Roman";
+	color:black;
+	mso-color-index:1;
+	font-size:77%;}
+.O1B
+	{mso-special-format:nobullet•;}
+.O1
+	{font-family:"Times New Roman";
+	font-size:77%;}
+.O2B
+	{mso-special-format:nobullet•;}
+.O2
+	{font-family:"Times New Roman";
+	font-size:77%;}
+.O3B
+	{mso-special-format:nobullet•;}
+.O3
+	{font-family:"Times New Roman";
+	font-size:77%;}
+.O4B
+	{mso-special-format:nobullet•;}
+.O4
+	{font-family:"Times New Roman";
+	font-size:77%;}
+.CBB
+	{mso-special-format:nobullet•;}
+.CB
+	{font-family:"Times New Roman";}
+.CB1B
+	{mso-special-format:nobullet–;}
+.CB1
+	{font-family:"Times New Roman";}
+.CB2B
+	{mso-special-format:nobullet•;}
+.CB2
+	{font-family:"Times New Roman";}
+.CB3B
+	{mso-special-format:nobullet–;}
+.CB3
+	{font-family:"Times New Roman";}
+.CB4B
+	{mso-special-format:nobullet»;}
+.CB4
+	{font-family:"Times New Roman";}
+.CTB
+	{mso-special-format:nobullet•;}
+.CT
+	{font-family:"Times New Roman";}
+.HBB
+	{mso-special-format:bullet•;}
+.HB
+	{font-family:"Times New Roman";}
+.HB1B
+	{mso-special-format:bullet–;}
+.HB1
+	{font-family:"Times New Roman";}
+.HB2B
+	{mso-special-format:bullet•;}
+.HB2
+	{font-family:"Times New Roman";}
+.HB3B
+	{mso-special-format:bullet–;}
+.HB3
+	{font-family:"Times New Roman";}
+.HB4B
+	{mso-special-format:bullet»;}
+.HB4
+	{font-family:"Times New Roman";}
+.QBB
+	{mso-special-format:bullet•;}
+.QB
+	{font-family:"Times New Roman";}
+.QB1B
+	{mso-special-format:bullet–;}
+.QB1
+	{font-family:"Times New Roman";}
+.QB2B
+	{mso-special-format:bullet•;}
+.QB2
+	{font-family:"Times New Roman";}
+.QB3B
+	{mso-special-format:bullet–;}
+.QB3
+	{font-family:"Times New Roman";}
+.QB4B
+	{mso-special-format:bullet»;}
+.QB4
+	{font-family:"Times New Roman";}
+.TblB
+	{mso-special-format:nobullet•;}
+.Tbl
+	{font-family:"Times New Roman";}
+.Tbl1B
+	{mso-special-format:nobullet–;}
+.Tbl1
+	{font-family:"Times New Roman";}
+.Tbl2B
+	{mso-special-format:nobullet•;}
+.Tbl2
+	{font-family:"Times New Roman";}
+.Tbl3B
+	{mso-special-format:nobullet–;}
+.Tbl3
+	{font-family:"Times New Roman";}
+.Tbl4B
+	{mso-special-format:nobullet»;}
+.Tbl4
+	{font-family:"Times New Roman";}
+.defaultB
+	{mso-special-format:nobullet•;}
+.default
+	{text-align:left;
+	font-family:"Arial Narrow";
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none;
+	text-shadow:none;
+	text-effect:none;
+	mso-fareast-hint:no;
+	layout-flow:horizontal;
+	color:black;
+	mso-color-index:1;
+	font-size:77%;
+	mso-text-raise:0%;
+	mso-line-spacing:"100 0 0";
+	mso-margin-left-alt:0;
+	mso-text-indent-alt:0;
+	mso-char-wrap:0;
+	mso-kinsoku-overflow:0;
+	direction:ltr;
+	mso-word-wrap:1;
+	mso-vertical-align-special:baseline;
+	mso-ansi-language:EN-US;}
+a:link
+	{color:#CCCCFF !important;}
+a:active
+	{color:#3333CC !important;}
+a:visited
+	{color:#B2B2B2 !important;}
+@font-face
+	{font-family:Impact;
+	font-style:normal;
+	font-weight:normal;
+	mso-font-charset:0;
+	mso-font-format:4;
+	mso-generic-font-family:34;
+	src:url("font004.eot");}
+@font-face
+	{font-family:"Arial Narrow";
+	font-style:normal;
+	font-weight:normal;
+	mso-font-charset:0;
+	mso-font-format:4;
+	mso-generic-font-family:34;
+	src:url("font012.eot");}
+@font-face
+	{font-family:"Arial Narrow";
+	font-style:normal;
+	font-weight:bold;
+	mso-font-charset:0;
+	mso-font-format:4;
+	mso-generic-font-family:34;
+	src:url("font013.eot");}
+@font-face
+	{font-family:"Arial Narrow";
+	font-style:italic;
+	font-weight:normal;
+	mso-font-charset:0;
+	mso-font-format:4;
+	mso-generic-font-family:34;
+	src:url("font014.eot");}
+@font-face
+	{font-family:"Arial Narrow";
+	font-style:italic;
+	font-weight:bold;
+	mso-font-charset:0;
+	mso-font-format:4;
+	mso-generic-font-family:34;
+	src:url("font015.eot");}
+@font-face
+	{font-family:Haettenschweiler;
+	font-style:normal;
+	font-weight:normal;
+	mso-font-charset:0;
+	mso-font-format:4;
+	mso-generic-font-family:34;
+	src:url("font016.eot");}

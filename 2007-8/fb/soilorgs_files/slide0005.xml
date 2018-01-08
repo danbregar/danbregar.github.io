@@ -1,0 +1,463 @@
+<xml xmlns:v="urn:schemas-microsoft-com:vml"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:p="urn:schemas-microsoft-com:office:powerpoint"
+ xmlns:oa="urn:schemas-microsoft-com:office:activation">
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="6"/>
+ </o:shapelayout><p:shaperange id="_x0000_s6146">
+  <v:shape id="_x0000_s6146" type="#_x0000_m1026" style='position:absolute;
+   left:36pt;top:21.625pt;width:9in;height:90pt'>
+   <v:fill o:detectmouseclick="f"/>
+   <v:stroke o:forcedash="f"/>
+   <o:lock v:ext="edit" text="f"/>
+   <p:placeholder type="title"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s6150">
+  <v:shapetype id="_x0000_t75" coordsize="21600,21600" o:spt="75"
+   o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+   <v:stroke joinstyle="miter"/>
+   <v:formulas>
+    <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+    <v:f eqn="sum @0 1 0"/>
+    <v:f eqn="sum 0 0 @1"/>
+    <v:f eqn="prod @2 1 2"/>
+    <v:f eqn="prod @3 21600 pixelWidth"/>
+    <v:f eqn="prod @3 21600 pixelHeight"/>
+    <v:f eqn="sum @0 0 1"/>
+    <v:f eqn="prod @6 1 2"/>
+    <v:f eqn="prod @7 21600 pixelWidth"/>
+    <v:f eqn="sum @8 21600 0"/>
+    <v:f eqn="prod @7 21600 pixelHeight"/>
+    <v:f eqn="sum @10 21600 0"/>
+   </v:formulas>
+   <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+   <o:lock v:ext="edit" aspectratio="t"/>
+  </v:shapetype><v:shape id="_x0000_s6150" type="#_x0000_t75" alt="Img0001.jpg (30682 bytes)"
+   style='position:absolute;left:138pt;top:114pt;width:450pt;height:300pt'>
+   <v:imagedata src="slide0005_image022.jpg" o:title="Img0001"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="SMARTPenAnnotation68">
+  <v:shape id="SMARTPenAnnotation68" o:spid="_x0000_s6152" style='position:absolute;
+   left:163.875pt;top:429.625pt;width:.25pt;height:.125pt;mso-wrap-style:none;
+   v-text-anchor:middle' coordsize="2,1" path="m,l1,,,xe" filled="f"
+   fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:shape><v:polyline id="SMARTPenAnnotation69" o:spid="_x0000_s6153"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="181.375pt,423.25pt,181pt,422.5pt,180.875pt,422.375pt,180.625pt,422.125pt,180.125pt,421.875pt,179.875pt,422.125pt,179.625pt,422.375pt,179.25pt,422.625pt,179pt,422.875pt,178.75pt,423pt,178.375pt,423.125pt,178.125pt,423.25pt,177.875pt,423.375pt,177.625pt,423.625pt,177.375pt,423.75pt,177.25pt,424pt,177pt,424.25pt,176.75pt,424.5pt,176.625pt,424.875pt,176.5pt,425.125pt,176.375pt,425.375pt,176.125pt,425.625pt,176pt,425.875pt,175.875pt,426.375pt,175.875pt,426.75pt,175.75pt,427.25pt,175.75pt,427.75pt,176pt,428pt,176.25pt,428.25pt,176.5pt,428.5pt,176.875pt,428.625pt,177.125pt,428.875pt,177.375pt,429.125pt,177.75pt,429.375pt,178.125pt,429.625pt,179.125pt,430.25pt,180.875pt,431.25pt,181.625pt,431.875pt,182.125pt,432.375pt,182.625pt,432.875pt,182.875pt,433.25pt,183.125pt,433.625pt,183.25pt,433.875pt,183.375pt,434.25pt,183.375pt,434.5pt,183.5pt,434.75pt,183.5pt,435pt,183.5pt,435.375pt,183.5pt,435.875pt,183.375pt,436.125pt,183.25pt,436.5pt,183.125pt,436.75pt,183pt,437pt,182.75pt,437.25pt,182.5pt,437.5pt,182.375pt,437.75pt,181.875pt,438.25pt,181.5pt,438.375pt,181.25pt,438.5pt,180.75pt,438.625pt,180.375pt,438.625pt,179.875pt,438.625pt,179.125pt,438.75pt,178.5pt,438.75pt,176.5pt,438.75pt"
+   coordsize="63,136" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation70" o:spid="_x0000_s6154"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="186.375pt,430.375pt,188.875pt,430.375pt,189.375pt,430.25pt,189.875pt,430.125pt,190.25pt,430pt,190.75pt,429.875pt,191pt,429.75pt,191.375pt,429.75pt,191.75pt,429.625pt,192.125pt,429.5pt,192.5pt,429.25pt,193.375pt,428.875pt,193.875pt,428.625pt,194.25pt,428.375pt,194.625pt,428.25pt,194.875pt,428pt,195.125pt,427.75pt,195.375pt,427.5pt,195.625pt,427.25pt,195.875pt,427pt,196pt,426.75pt,196pt,426.5pt,196.125pt,426.375pt,196.375pt,426.125pt,196.5pt,425.875pt,196.625pt,425.625pt,196.75pt,425.375pt,196.75pt,425.125pt,196.75pt,424.875pt,196.625pt,424.625pt,196.25pt,424.125pt,196pt,423.875pt,195.875pt,423.625pt,195.5pt,423.5pt,195.25pt,423.5pt,194.875pt,423.375pt,194.375pt,423.375pt,194pt,423.375pt,193.5pt,423.375pt,193.125pt,423.375pt,192.625pt,423.5pt,192.125pt,423.625pt,191.75pt,423.75pt,191.25pt,423.875pt,190.75pt,423.875pt,190.25pt,424.125pt,189.875pt,424.375pt,189.375pt,424.75pt,189pt,425pt,188.625pt,425.25pt,188.375pt,425.5pt,188pt,426pt,187.625pt,426.5pt,187.125pt,427pt,186.75pt,427.5pt,186.5pt,427.875pt,186.25pt,428.25pt,186pt,428.625pt,185.875pt,429pt,185.75pt,429.5pt,185.75pt,429.875pt,185.75pt,430.375pt,185.625pt,430.75pt,185.75pt,431.25pt,185.875pt,431.75pt,186pt,432.25pt,186.25pt,432.625pt,186.375pt,433.125pt,186.625pt,433.625pt,186.875pt,434pt,187.25pt,434.375pt,187.625pt,434.625pt,188.125pt,435pt,189.375pt,435.75pt,189.875pt,436.125pt,190.375pt,436.25pt,190.875pt,436.375pt,191.5pt,436.5pt,192.75pt,437pt,193.375pt,437.125pt,194.125pt,437.125pt,194.75pt,437.25pt,195.625pt,437.125pt,196.375pt,437.125pt,197.25pt,436.875pt,198pt,436.875pt,198.625pt,436.75pt,201.125pt,436pt"
+   coordsize="125,112" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation71" o:spid="_x0000_s6155"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="208.125pt,424.75pt,207.75pt,424pt,207.625pt,423.75pt,207.375pt,423.75pt,206.875pt,424pt,206.625pt,424.25pt,205.625pt,425.125pt,205.125pt,425.625pt,204.625pt,426.25pt,204.125pt,426.875pt,203.75pt,427.5pt,203.375pt,428pt,203.125pt,428.625pt,202.75pt,429.25pt,201.875pt,430.75pt,201.625pt,431.625pt,201.5pt,432.375pt,201.375pt,433pt,201.375pt,433.625pt,201.375pt,434.125pt,201.5pt,434.5pt,201.75pt,434.75pt,201.875pt,434.875pt,202.125pt,435pt,202.375pt,435.125pt,202.75pt,435.125pt,203.125pt,435.125pt,203.5pt,435.125pt,203.75pt,435pt,204pt,434.875pt,204.375pt,434.625pt,204.75pt,434.25pt,205.5pt,433.5pt,206.125pt,433pt,207.25pt,431.875pt,207.625pt,431.375pt,208pt,431pt,208.25pt,430.5pt,208.5pt,430pt,208.625pt,429.625pt,208.625pt,429.125pt,208.75pt,428.625pt,209pt,428.25pt,209.125pt,427.75pt,209.25pt,427.25pt,209.375pt,426.75pt,209.375pt,426.375pt,209.375pt,425.875pt,209.25pt,425.625pt,209.125pt,425.25pt,209pt,424.5pt,208.875pt,423.875pt,208.875pt,423.875pt,208.875pt,423.875pt,208.875pt,424.375pt,209pt,426.25pt,209.25pt,427.625pt,209.375pt,428.75pt,209.625pt,429.75pt,210pt,431.625pt,210.75pt,435.125pt,213.25pt,445.25pt,213.5pt,446.125pt,214pt,447.75pt,214.125pt,448.375pt,214.25pt,449pt,214.25pt,449.625pt,214.375pt,450.125pt,214.375pt,450.625pt,214.375pt,451.125pt,214.25pt,451.5pt,214pt,451.625pt,213.75pt,451.875pt,213.375pt,451.875pt,212.875pt,451.75pt,212.5pt,451.625pt,212pt,451.5pt,211.625pt,451.25pt,211.125pt,451.125pt,210.625pt,450.875pt,210pt,450.5pt,209.375pt,450.125pt,208.75pt,449.75pt,208pt,449.375pt,207.375pt,449.125pt,206.75pt,448.75pt,206.25pt,448.375pt,205.625pt,448pt,205.125pt,447.625pt,204.625pt,447.125pt,204.125pt,446.625pt,203.75pt,446.25pt,203.375pt,445.75pt,203.125pt,445.25pt,202.875pt,444.75pt,202.75pt,444.125pt,202.625pt,443.5pt,202.75pt,443pt,202.75pt,442.375pt,202.875pt,441.875pt,203pt,441.375pt,203.125pt,440.875pt,203.125pt,440.375pt,203.25pt,440pt,203.375pt,439.5pt,203.875pt,438pt"
+   coordsize="105,226" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation72" o:spid="_x0000_s6156"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="216.625pt,422.625pt,216.625pt,431.375pt,216.625pt,432.125pt,216.75pt,432.75pt,216.875pt,433.375pt,217pt,434pt,217.125pt,434.625pt,217.125pt,435.25pt,217.25pt,435.875pt,217.375pt,436.5pt,217.625pt,437pt,217.75pt,437.5pt,218pt,438pt,218.25pt,438.5pt,218.5pt,438.75pt,218.625pt,439pt,219.25pt,439.375pt,219.375pt,439.125pt,219.5pt,438.625pt,219.75pt,437.875pt,219.875pt,436.875pt,220.375pt,434pt,220.625pt,432.75pt,220.75pt,431.75pt,221pt,430.75pt,221.125pt,429.75pt,221.25pt,428.5pt,221.375pt,427.25pt,221.5pt,426.25pt,221.625pt,425.375pt,221.875pt,424.75pt,222pt,424.125pt,222.125pt,424.125pt,222.125pt,424.125pt,222.25pt,424.625pt,222.375pt,425pt,222.5pt,425.375pt,222.625pt,425.75pt,222.75pt,426.125pt,222.75pt,426.625pt,222.875pt,427.125pt,223pt,427.75pt,223.25pt,428.375pt,223.625pt,429.625pt,224.5pt,432.375pt,224.75pt,433pt,225pt,433.625pt,225.25pt,434.125pt,225.5pt,434.625pt,225.875pt,435.125pt,226.25pt,435.625pt,226.625pt,436.125pt,227pt,436.375pt,227.25pt,436.75pt,227.5pt,437.25pt,227.625pt,437.5pt,228pt,438pt,228.125pt,438.25pt,228.25pt,438.375pt,228.375pt,438.375pt,228.375pt,438.25pt,228.5pt,437.875pt,228.5pt,437.5pt,228.5pt,437.125pt,228.5pt,434.875pt,228.375pt,434pt,228.25pt,433.125pt,228.125pt,432.125pt,228pt,431.25pt,228pt,430.5pt,227.875pt,429.75pt,227.875pt,428.5pt,227.875pt,427.125pt,227.875pt,425.25pt,228pt,424.25pt,228.25pt,423.375pt,229pt,421pt,229.125pt,420.875pt,229.375pt,420.75pt,229.75pt,420.625pt,230.125pt,420.5pt,230.375pt,420.625pt,230.375pt,420.875pt,230.5pt,421.25pt,230.75pt,421.75pt,231pt,422pt,231.125pt,422.375pt,231.125pt,422.75pt,231.25pt,423.125pt,231.375pt,423.625pt,231.5pt,424.25pt,231.625pt,424.875pt,232.5pt,427.25pt,233pt,428.75pt,233.625pt,430pt,234.25pt,431.25pt,235.5pt,433.25pt,237.375pt,436.125pt,237.5pt,436.375pt,237.75pt,436.375pt,238.375pt,436.625pt"
+   coordsize="175,152" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation73" o:spid="_x0000_s6157"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="237pt,429.625pt,237.75pt,430pt,238.125pt,430.125pt,238.5pt,430.125pt,238.875pt,430.25pt,239.375pt,430.25pt,240.625pt,430.25pt,242.25pt,430.25pt,242.625pt,430.25pt,243pt,430.125pt,243.375pt,429.875pt,243.625pt,429.75pt,243.875pt,429.5pt,244.125pt,429.375pt,244.375pt,429.125pt,244.625pt,428.875pt,244.875pt,428.625pt,245.125pt,428.375pt,245.375pt,428pt,245.625pt,427.625pt,245.75pt,427.125pt,245.875pt,426.75pt,246pt,426.25pt,246pt,425.875pt,246pt,425.625pt,246pt,425.25pt,246pt,425pt,245.75pt,424.5pt,245.5pt,424.125pt,245.125pt,423.375pt,244.875pt,423.125pt,244.5pt,423pt,244.125pt,422.875pt,243.75pt,422.625pt,243.375pt,422.5pt,243.125pt,422.25pt,242.75pt,422.125pt,242.375pt,422pt,242pt,422pt,241.625pt,422pt,241.375pt,422.125pt,239.875pt,422.875pt,239.5pt,423.125pt,239.25pt,423.25pt,238.875pt,423.5pt,238.625pt,423.875pt,238.375pt,424.25pt,238.125pt,424.625pt,238pt,425pt,237.875pt,425.5pt,237.75pt,425.875pt,237.75pt,426.375pt,237.75pt,427pt,237.625pt,428.25pt,237.625pt,429.25pt,237.75pt,429.875pt,237.875pt,430.5pt,238pt,431.125pt,238.25pt,431.75pt,238.625pt,432.5pt,239.375pt,433.75pt,239.875pt,434.875pt,240.25pt,435.25pt,240.625pt,435.625pt,241pt,436pt,241.5pt,436.375pt,241.875pt,436.75pt,242.375pt,437.25pt,242.875pt,437.5pt,243.5pt,437.875pt,244.125pt,438.125pt,244.625pt,438.375pt,245pt,438.5pt,245.375pt,438.625pt,245.75pt,438.5pt,246.25pt,438.5pt,246.625pt,438.375pt,247pt,438.25pt,247.375pt,438.125pt,247.625pt,438.125pt,247.875pt,438pt,248.125pt,437.875pt,248.875pt,437.375pt"
+   coordsize="96,134" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation74" o:spid="_x0000_s6158"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="250.375pt,426.125pt,250.375pt,427.25pt,250.375pt,427.875pt,250.5pt,428.625pt,250.625pt,429.375pt,250.75pt,430.125pt,250.875pt,430.875pt,250.875pt,431.625pt,251pt,432.875pt,251pt,433.375pt,251.125pt,434.125pt,251.25pt,434.875pt,251.375pt,435.75pt,251.625pt,436.375pt,251.75pt,437pt,252pt,437.625pt,252.25pt,438pt,252.5pt,438.25pt,252.625pt,438.375pt,252.875pt,438.5pt,252.875pt,438.375pt,253pt,438.25pt,253.125pt,438pt,253.125pt,437.5pt,253.125pt,437.125pt,253.25pt,436.75pt,253.375pt,436.375pt,253.5pt,436pt,253.625pt,435.375pt,253.625pt,434.5pt,253.75pt,433.625pt,253.75pt,431.875pt,253.875pt,428.75pt,253.875pt,427.375pt,253.875pt,426.875pt,254pt,426.25pt,254.25pt,425.75pt,254.25pt,425.25pt,254.375pt,425pt,254.375pt,424.625pt,254.75pt,424pt,255.125pt,423.5pt,255.25pt,423.25pt,255.5pt,423pt,255.75pt,423pt,256pt,423pt,256.125pt,423.125pt,256.375pt,423.25pt,256.375pt,423.375pt,256.5pt,423.625pt,256.75pt,424pt,257pt,424.25pt,257.125pt,424.5pt,257.125pt,424.875pt,257.25pt,425.25pt,257.375pt,425.75pt,257.5pt,426.375pt,257.625pt,427pt,257.75pt,427.5pt,257.875pt,428.125pt,258pt,428.625pt,258pt,429.25pt,258.25pt,430pt,258.375pt,430.75pt,258.625pt,431.75pt,259.375pt,434.125pt,259.75pt,435.375pt,260.25pt,436.375pt,261pt,438.25pt,261.625pt,439.625pt,262pt,440.125pt,262.25pt,440.5pt,263pt,441.625pt"
+   coordsize="102,150" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation75" o:spid="_x0000_s6159"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="265.125pt,415.5pt,265.875pt,416.25pt,266pt,416.625pt,266.25pt,417.125pt,266.25pt,417.5pt,266.375pt,418pt,266.375pt,418.625pt,266.375pt,419.25pt,266.5pt,420.5pt,266.5pt,423.625pt,266.5pt,424.5pt,266.75pt,425.5pt,266.875pt,426.375pt,267pt,427.25pt,267pt,428.25pt,267.125pt,429.125pt,267.125pt,431pt,267.125pt,6in,267.25pt,432.875pt,267.375pt,433.625pt,267.5pt,434.375pt,267.625pt,435.125pt,267.75pt,435.875pt,267.75pt,436.625pt,267.875pt,437.375pt,268pt,438.25pt,268.25pt,439.125pt,268.375pt,439.75pt,268.625pt,440.25pt,269.25pt,441.625pt"
+   coordsize="34,210" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation76" o:spid="_x0000_s6160"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="260.875pt,428.25pt,262.875pt,429.125pt,263.375pt,429.375pt,263.875pt,429.375pt,264.5pt,429.5pt,265.5pt,429.625pt,266.625pt,430pt,269.125pt,430.625pt,271pt,431.125pt,271.875pt,431.375pt,272.625pt,431.5pt,273.375pt,431.5pt,274.125pt,431.625pt,274.875pt,431.625pt,276.25pt,431.625pt,278.5pt,431.75pt,278.75pt,431.625pt,279.375pt,431.375pt,279.5pt,431.125pt,279.625pt,431pt,279.75pt,430.5pt,279.75pt,430.125pt,279.75pt,429.875pt,279.5pt,429.375pt,279.25pt,428.875pt,279.25pt,428.625pt,279pt,428.375pt,278.375pt,428pt,277.625pt,427.75pt,277.25pt,427.625pt,276.5pt,427.375pt,276.25pt,427.125pt,275.875pt,427.125pt,275pt,427.25pt,274.625pt,427.375pt,274.125pt,427.625pt,273.75pt,427.75pt,273.25pt,428pt,272.75pt,428pt,272.375pt,428.125pt,272pt,428.25pt,271.625pt,428.625pt,271.25pt,428.875pt,271pt,429.25pt,270.5pt,429.75pt,270.375pt,430.125pt,270.25pt,430.5pt,270.125pt,430.875pt,270.125pt,431.375pt,270.125pt,431.75pt,270pt,432.25pt,270.125pt,432.625pt,270.25pt,433.125pt,270.375pt,433.625pt,270.625pt,434.125pt,271pt,434.75pt,271.375pt,435.375pt,271.75pt,436pt,272.25pt,436.5pt,272.625pt,437pt,273.125pt,437.625pt,273.5pt,438.25pt,274pt,438.875pt,274.5pt,439.5pt,275.125pt,440pt,275.75pt,440.5pt,276.375pt,441pt,277.125pt,441.5pt,277.75pt,442pt,278.5pt,442.375pt,279.125pt,442.75pt,279.875pt,443pt,280.5pt,443.375pt,281.25pt,443.625pt,282pt,443.875pt,282.625pt,444pt,283.125pt,444pt,283.75pt,443.875pt,284.25pt,443.75pt,284.75pt,443.75pt,285.25pt,443.75pt,285.625pt,443.625pt,286.125pt,443.5pt,286.625pt,443.375pt,287.375pt,442.875pt,288.25pt,442.25pt"
+   coordsize="220,136" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation77" o:spid="_x0000_s6161"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="293.875pt,419.125pt,294.25pt,419.75pt,294.5pt,420.625pt,294.5pt,421pt,294.625pt,421.5pt,294.75pt,422.125pt,295pt,422.75pt,295.125pt,423.375pt,295.125pt,424pt,295.625pt,429.75pt,295.875pt,431.5pt,296.125pt,432.875pt,296.25pt,434.125pt,296.625pt,435.375pt,297pt,436.75pt,297.375pt,438.125pt,297.625pt,439.375pt,298.25pt,441.875pt,298.5pt,442.875pt,298.75pt,443.5pt,299pt,444pt,299.25pt,444.875pt,299.375pt,445.25pt,299.5pt,445.25pt,299.5pt,445.25pt,299.875pt,444.75pt,299.875pt,444.5pt,299.75pt,443.75pt,299.625pt,443.375pt,299.625pt,442.875pt,299.625pt,442.5pt,299.5pt,442pt,299.375pt,441.5pt,299.125pt,441.125pt,299pt,440.625pt,298.75pt,440.125pt,298.5pt,439.625pt,297.5pt,437.5pt,297.125pt,436.875pt,296.625pt,436.5pt,296.25pt,436pt,295.75pt,435.75pt,295.25pt,435.375pt,294.875pt,435.125pt,294.5pt,434.875pt,294.125pt,434.625pt,293.75pt,434.375pt,293.5pt,434.125pt,293pt,434pt,292.625pt,434pt,292.25pt,434pt,291.75pt,434.125pt,291.25pt,434.25pt,290.875pt,434.375pt,290.625pt,434.375pt,290.25pt,434.5pt,290pt,434.5pt,289.75pt,434.75pt,289.5pt,434.875pt,289.25pt,435.125pt,289pt,435.25pt,288.75pt,435.5pt,288.25pt,436.125pt,287.875pt,436.875pt,287.75pt,437.5pt,287.75pt,437.875pt,4in,438.625pt,288.125pt,439pt,288.375pt,439.5pt,288.625pt,440pt,289pt,440.625pt,289.5pt,441.25pt,289.875pt,441.75pt,290.25pt,442pt,290.625pt,442.25pt,291pt,442.5pt,291.375pt,442.75pt,292.25pt,443.25pt,292.75pt,443.375pt,293.25pt,443.5pt,296.625pt,444pt,297.625pt,444.125pt,298.625pt,444.25pt,299.625pt,444.25pt,300.375pt,444.25pt,301pt,444.125pt,303pt,443.625pt"
+   coordsize="123,210" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation78" o:spid="_x0000_s6162"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="166pt,460.5pt,165.5pt,460.5pt,166.25pt,460.5pt,166.5pt,460.5pt,166.875pt,460.375pt,167.25pt,460.125pt,167.625pt,460.125pt,167.875pt,460pt,168.25pt,460pt,168.25pt,459.875pt,168.25pt,459.875pt,168.25pt,459.875pt,168.125pt,459.875pt,167.875pt,459.875pt,166.625pt,460.5pt"
+   coordsize="23,6" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation79" o:spid="_x0000_s6163"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="176.5pt,464.75pt,178pt,464.75pt,178.625pt,464.75pt,179.375pt,464.5pt,180pt,464.375pt,180.625pt,464.25pt,181pt,464.25pt,181.375pt,464.125pt,181.75pt,464.125pt,182pt,464.125pt,182.25pt,464.125pt,182.625pt,463.875pt,183pt,463.625pt,183.375pt,463.375pt,183.75pt,463pt,184pt,462.75pt,184.625pt,462.25pt,185.5pt,461.375pt,187.125pt,459.75pt,187.375pt,459.5pt,187.625pt,458.875pt,187.625pt,458.5pt,187.625pt,458.25pt,187.625pt,458pt,187.375pt,457.5pt,187.125pt,457.375pt,187pt,457.25pt,186.75pt,457.125pt,186.25pt,456.875pt,186.125pt,456.75pt,185.875pt,456.625pt,185.375pt,456.5pt,185.125pt,456.5pt,184.75pt,456.625pt,184.375pt,456.75pt,183.875pt,456.875pt,183.5pt,457.125pt,182.5pt,457.5pt,181.625pt,458pt,181.25pt,458.25pt,180.875pt,458.625pt,180.625pt,459pt,180.25pt,459.5pt,179.875pt,459.875pt,179.375pt,460.375pt,179.125pt,460.75pt,178.75pt,461.25pt,178.5pt,461.75pt,178.25pt,462.375pt,178pt,463.25pt,177.75pt,464.25pt,177.625pt,465pt,177.625pt,465.75pt,177.75pt,466.375pt,177.875pt,466.875pt,178pt,467.5pt,178.25pt,468pt,178.375pt,468.5pt,178.625pt,469pt,178.875pt,469.375pt,179.125pt,469.875pt,179.5pt,470.375pt,179.875pt,470.875pt,180.375pt,471.375pt,181.25pt,472.25pt,181.75pt,472.625pt,182.375pt,473pt,186.125pt,474.875pt,186.5pt,475pt,187pt,475.125pt,187.5pt,475.125pt,188pt,475.125pt,188.375pt,475pt,188.875pt,474.875pt,189.375pt,474.75pt,189.875pt,474.75pt,190.25pt,474.75pt,190.75pt,474.625pt,191pt,474.5pt,192pt,473.875pt"
+   coordsize="125,150" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation80" o:spid="_x0000_s6164"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="193.375pt,460.5pt,196.25pt,466.25pt,196.625pt,467pt,197.25pt,467.625pt,197.75pt,468.25pt,198.375pt,468.875pt,199.375pt,470pt,200.75pt,471.5pt,201.25pt,472pt,201.5pt,472.125pt,201.75pt,472.25pt,202pt,472.375pt,202.25pt,472.375pt,202.5pt,472.375pt,203.25pt,472.5pt"
+   coordsize="80,97" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation81" o:spid="_x0000_s6165"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="201.125pt,459.125pt,200.75pt,459.875pt,200.5pt,460.125pt,200.375pt,460.5pt,200.125pt,460.75pt,200pt,461pt,199.875pt,461.375pt,199.875pt,461.875pt,199.75pt,462.375pt,199.75pt,462.875pt,199.75pt,463.5pt,199.5pt,464.625pt,199.25pt,466.125pt,198.625pt,469.125pt,198.125pt,471.625pt,197.875pt,472.5pt,197.625pt,473.25pt,197.375pt,474pt,197.125pt,474.625pt,196.875pt,475.125pt,196.125pt,476pt"
+   coordsize="41,136" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation82" o:spid="_x0000_s6166"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="206.75pt,456.375pt,206.75pt,460.625pt,206.625pt,461.375pt,206.5pt,462pt,206.375pt,462.75pt,206.375pt,463.375pt,206.375pt,464.125pt,206.5pt,464.75pt,206.625pt,465.5pt,206.625pt,466.125pt,206.625pt,467.5pt,206.75pt,468.625pt,206.75pt,469.25pt,206.875pt,469.875pt,207.125pt,470.5pt,207.25pt,471.125pt,207.75pt,472.5pt,207.875pt,473.125pt,208.125pt,473.75pt,208.375pt,474.25pt,208.5pt,474.625pt,208.625pt,475pt,208.75pt,475.375pt,208.875pt,475.625pt,209pt,475.875pt,209.5pt,476.75pt"
+   coordsize="26,164" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation83" o:spid="_x0000_s6167"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="201.125pt,465.5pt,201.875pt,465.5pt,202.375pt,465.5pt,203pt,465.625pt,203.75pt,465.875pt,204.75pt,466pt,205.625pt,466pt,206.75pt,466.125pt,208.75pt,466.125pt,213pt,466.125pt,213.375pt,466.125pt,214.125pt,465.75pt,214.875pt,465.5pt,215.375pt,465.125pt,215.875pt,464.75pt,216.125pt,464.5pt,216.25pt,464.25pt,216.375pt,464pt,216.375pt,463.875pt,216.375pt,463.625pt,216.25pt,463.625pt,216.125pt,463.5pt,215.75pt,463.375pt,215.625pt,463.375pt,215.375pt,463.5pt,214.625pt,463.875pt,213.875pt,464.125pt,213.125pt,464.375pt,212.75pt,464.625pt,212.5pt,465pt,212.25pt,465.375pt,212pt,465.75pt,211.625pt,466pt,211.375pt,466.375pt,211.25pt,466.625pt,211.125pt,467pt,211.125pt,467.5pt,211pt,467.875pt,211pt,468.375pt,211pt,468.75pt,211pt,469.125pt,211.125pt,469.5pt,211.5pt,470.125pt,211.875pt,471pt,212.25pt,471.375pt,212.625pt,471.625pt,213pt,471.875pt,213.375pt,472.25pt,213.875pt,472.5pt,214.25pt,472.75pt,214.75pt,472.875pt,215.125pt,473pt,215.625pt,473pt,216.375pt,473.375pt,216.625pt,473.5pt,217.125pt,473.625pt,217.625pt,473.75pt,218.25pt,473.75pt,219.125pt,473.875pt,219.375pt,473.875pt,220.25pt,473.625pt,221pt,473.375pt,221.625pt,472.875pt,222.125pt,472.5pt,222.5pt,472.125pt,222.75pt,472pt,223.125pt,471.875pt,223.25pt,472pt,223.375pt,472pt,223.5pt,472.25pt,223.75pt,472.625pt,224.25pt,473.125pt,224.25pt,473.25pt,224.25pt,473.625pt,224.25pt,474.375pt,224.375pt,474.5pt,224.5pt,474.5pt,224.625pt,474.5pt,224.75pt,474.5pt,224.625pt,474.375pt,224.5pt,474.25pt,224.5pt,474pt,224.375pt,473.625pt,224.125pt,473.125pt,223.875pt,472.5pt,223.625pt,471.875pt,223.375pt,471.25pt,223.25pt,470.625pt,223.125pt,470.125pt,223pt,469.5pt,223pt,469pt,223pt,468.5pt,222.875pt,467.625pt,222.875pt,465.75pt,223pt,465.125pt,223.125pt,464.375pt,223.25pt,463.5pt,223.5pt,463pt,223.625pt,462.5pt,223.875pt,462pt,224.125pt,461.75pt,224.375pt,461.375pt,224.5pt,461.125pt,224.875pt,460.875pt,225.625pt,460.75pt,226.25pt,460.375pt,226.5pt,460.25pt,226.875pt,460.125pt,227.75pt,460.375pt,228.625pt,460.5pt,229.875pt,460.5pt"
+   coordsize="231,116" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation84" o:spid="_x0000_s6168"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="232pt,464.75pt,232.375pt,465.5pt,232.5pt,465.75pt,232.625pt,466.125pt,232.625pt,466.375pt,232.75pt,466.625pt,232.875pt,466.875pt,233.125pt,467.125pt,233.25pt,467.375pt,233.25pt,467.75pt,233.375pt,468.125pt,233.375pt,468.625pt,233.375pt,469pt,233.375pt,469.5pt,233.5pt,470pt,233.625pt,470.625pt,233.75pt,471.25pt,234pt,471.875pt,234.25pt,472.375pt,234.375pt,472.875pt,234.5pt,473.25pt,234.625pt,473.625pt,234.75pt,474pt,234.75pt,474pt,234.75pt,473.875pt,234.75pt,473.625pt,234.875pt,473.375pt,234.875pt,472.625pt,234.875pt,466.75pt,234.875pt,466.125pt,235pt,465.625pt,235.25pt,465.125pt,235.375pt,464.625pt,235.375pt,464.125pt,235.5pt,463.625pt,235.5pt,463.125pt,235.75pt,462.625pt,235.875pt,462.25pt,236pt,461.75pt,236.125pt,461.5pt,236.125pt,461.125pt,236.25pt,461pt,236.375pt,460.875pt,236.75pt,460.625pt,237pt,460.375pt,237.25pt,460.25pt,237.5pt,460.125pt,237.625pt,460.25pt,237.875pt,460.375pt,238.125pt,460.5pt,238.375pt,460.625pt,238.625pt,460.875pt,238.875pt,461.125pt,239.25pt,461.5pt,239.5pt,461.75pt,239.75pt,462.125pt,240pt,462.625pt,240.25pt,463pt,240.75pt,463.875pt,240.875pt,464.375pt,241pt,465pt,241pt,465.625pt,241.375pt,466.625pt,241.75pt,468pt,242.25pt,469.5pt,242.625pt,470.625pt,243pt,471.625pt,244.75pt,474.625pt"
+   coordsize="103,117" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation85" o:spid="_x0000_s6169"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="250.375pt,464.125pt,250pt,464.125pt,249.75pt,464.125pt,249.5pt,464.25pt,249.375pt,464.375pt,249pt,464.75pt,248.25pt,465.375pt,248pt,466pt,247.625pt,466.625pt,247.375pt,467.5pt,247.125pt,468.125pt,246.875pt,468.75pt,246.625pt,469.25pt,246.375pt,469.75pt,246.375pt,470.125pt,246.25pt,470.375pt,246.25pt,470.75pt,246.125pt,471pt,246.125pt,471.25pt,246.125pt,471.5pt,246.125pt,472pt,246.125pt,472.125pt,246.25pt,472.25pt,246.5pt,472.375pt,246.625pt,472.375pt,246.875pt,472.375pt,247.125pt,472.5pt,247.25pt,472.375pt,247.5pt,472.25pt,247.75pt,472.125pt,248pt,471.875pt,248.25pt,471.75pt,248.5pt,471.5pt,248.625pt,471.25pt,248.75pt,470.875pt,248.75pt,470.5pt,248.875pt,470pt,249pt,469.625pt,249.25pt,469.125pt,249.375pt,468.75pt,249.5pt,468.25pt,249.5pt,467.75pt,249.5pt,467.125pt,249.625pt,465.625pt,249.625pt,465pt,249.75pt,464.5pt,250pt,464.125pt,250.125pt,463.75pt,250.125pt,463.25pt,250.25pt,462.875pt,250.25pt,462.5pt,250.25pt,462.125pt,250.25pt,461.375pt,250.25pt,461.625pt,250.375pt,461.875pt,250.5pt,462pt,250.625pt,462.25pt,250.75pt,462.625pt,250.875pt,463.125pt,250.875pt,463.625pt,251pt,464.125pt,251.125pt,464.75pt,251.375pt,465.125pt,251.5pt,465.875pt,252pt,467.375pt,252.25pt,468.125pt,252.375pt,468.625pt,252.625pt,469.25pt,253pt,470pt,253.75pt,471.5pt,254.125pt,472.125pt,254.375pt,472.625pt,254.625pt,473.125pt,254.875pt,473.375pt,255.25pt,473.5pt,255.75pt,473.75pt,256.625pt,473.875pt"
+   coordsize="85,101" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation86" o:spid="_x0000_s6170"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="257.375pt,450pt,257.375pt,451.5pt,257.375pt,452.5pt,257.75pt,455.375pt,258.375pt,460.125pt,258.75pt,461.875pt,259.125pt,463.75pt,262pt,473.625pt,262.125pt,474pt,262.375pt,474.375pt,263pt,475.375pt"
+   coordsize="46,204" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation87" o:spid="_x0000_s6171"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="282.625pt,462.625pt,280.5pt,462.625pt,280pt,462.75pt,279.25pt,462.875pt,278.5pt,463pt,277.875pt,463.25pt,277.25pt,463.375pt,276.75pt,463.625pt,276.375pt,463.875pt,276.125pt,464.125pt,276pt,464.25pt,275.75pt,464.5pt,275.5pt,464.75pt,275.375pt,465pt,275.25pt,465.25pt,275.375pt,465.5pt,275.375pt,465.75pt,275.625pt,465.875pt,275.75pt,466pt,276pt,466pt,276.25pt,466.125pt,277pt,466.5pt,277.5pt,466.75pt,278pt,466.875pt,278.625pt,467.125pt,281.375pt,468.25pt,282.125pt,468.5pt,283.5pt,469.125pt,284.625pt,469.625pt,285.125pt,469.875pt,285.5pt,470.125pt,285.75pt,470.375pt,285.875pt,470.625pt,286pt,470.875pt,286.5pt,471.75pt,286.5pt,472pt,286.5pt,472.375pt,286.375pt,472.625pt,286.25pt,472.875pt,286pt,473.125pt,285.875pt,473.375pt,285.625pt,473.625pt,285.375pt,473.875pt,285.25pt,474.125pt,284.875pt,474.25pt,284.5pt,474.375pt,284.125pt,474.5pt,283.75pt,474.625pt,283.25pt,474.75pt,282.875pt,475pt,282.375pt,475.125pt,281.875pt,475.125pt,281.5pt,475.25pt,281.125pt,475.25pt,280.75pt,475.25pt,280.5pt,475.25pt,280.125pt,475.25pt,279.75pt,475.125pt,279.25pt,474.875pt,278.875pt,474.625pt,278.625pt,474.375pt,278.375pt,474pt,278pt,473.5pt,277.75pt,473.125pt,277pt,471.75pt"
+   coordsize="91,102" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation88" o:spid="_x0000_s6172"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="288.25pt,454.25pt,288.625pt,455pt,288.75pt,455.375pt,288.875pt,456pt,288.875pt,456.5pt,289pt,457.125pt,289.125pt,457.625pt,289.375pt,458.125pt,289.5pt,459pt,289.5pt,460.125pt,289.625pt,461.5pt,289.75pt,462.5pt,289.875pt,463.5pt,290pt,464.375pt,290.125pt,465.25pt,290.25pt,466pt,290.25pt,466.75pt,290.375pt,467.75pt,290.75pt,470.125pt,290.875pt,471.125pt,291.125pt,472pt,291.375pt,472.875pt,291.625pt,473.5pt,291.75pt,474pt,292.5pt,476.75pt"
+   coordsize="35,181" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation89" o:spid="_x0000_s6173"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="296.75pt,461.25pt,296.375pt,461.25pt,296pt,461.375pt,295.5pt,461.625pt,295pt,462pt,294.5pt,462.25pt,293.5pt,462.875pt,293.125pt,463.125pt,292.875pt,463.375pt,292.75pt,463.625pt,292.75pt,463.875pt,292.625pt,464pt,292.625pt,464.25pt,292.5pt,464.5pt,292.5pt,464.75pt,292.5pt,465pt,292.625pt,465.25pt,292.875pt,465.5pt,293.25pt,465.75pt,293.625pt,466pt,294pt,466.375pt,294.5pt,466.75pt,294.875pt,467.125pt,295.375pt,467.375pt,295.75pt,467.75pt,297.625pt,468.875pt,298.125pt,469.25pt,298.625pt,469.5pt,299.75pt,470.125pt,300.625pt,470.625pt,301.25pt,470.875pt,301.875pt,471.125pt,303.75pt,471.75pt"
+   coordsize="91,85" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation90" o:spid="_x0000_s6174"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="301.625pt,465.5pt,302.375pt,465.125pt,302.875pt,464.875pt,304pt,464.125pt,304.5pt,463.875pt,304.875pt,463.75pt,305.125pt,463.625pt,305.5pt,463.375pt,305.75pt,463.25pt,306pt,463pt,306.25pt,462.875pt,306.375pt,462.625pt,306.375pt,462.375pt,306.5pt,462.25pt,306.75pt,462.125pt,306.875pt,462.125pt,307pt,462pt,307.125pt,461.75pt,307.125pt,461.625pt,307.125pt,461.5pt,307pt,461.375pt,306.875pt,461.375pt,306.625pt,461.375pt,306.5pt,461.25pt,306.25pt,461.25pt,306pt,461.375pt,305.875pt,461.5pt,305.625pt,461.625pt,305.25pt,461.875pt,305pt,462pt,304.125pt,462.5pt,303.25pt,462.875pt,302.875pt,463.125pt,302.5pt,463.375pt,302.25pt,463.625pt,302pt,463.875pt,301.75pt,464.25pt,301.5pt,464.625pt,301.125pt,465.25pt,300.375pt,466.75pt,300.125pt,467.375pt,300.125pt,468pt,300.125pt,468.625pt,300.125pt,469.125pt,300.25pt,470.125pt,300.25pt,470.5pt,300.375pt,470.875pt,300.625pt,471.125pt,300.875pt,471.5pt,301.25pt,471.875pt,301.875pt,472.75pt,302.5pt,473.375pt,302.875pt,473.5pt,303.375pt,473.625pt,304pt,473.75pt,304.5pt,473.75pt,305pt,473.875pt,305.5pt,473.875pt,306pt,473.75pt,306.375pt,473.625pt,306.625pt,473.5pt,307.125pt,473.375pt,307.625pt,473.125pt,309.375pt,472.5pt"
+   coordsize="75,102" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation91" o:spid="_x0000_s6175"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="312.875pt,451.375pt,312.875pt,459pt,313pt,459.75pt,313.125pt,460.5pt,313.25pt,461.25pt,313.375pt,462.125pt,313.5pt,463.25pt,313.5pt,464.5pt,313.625pt,465.875pt,314pt,467.25pt,314.25pt,468.75pt,314.5pt,469.875pt,314.75pt,470.625pt,314.75pt,471.25pt,315pt,471.75pt,315.125pt,472.125pt,315.75pt,473.25pt"
+   coordsize="24,176" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation92" o:spid="_x0000_s6176"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="315.75pt,464.75pt,316.875pt,465.125pt,317.25pt,465.375pt,317.75pt,465.5pt,318.25pt,465.75pt,318.625pt,465.875pt,319pt,466pt,319.25pt,466pt,319.625pt,466.125pt,320.125pt,466.375pt,320.5pt,466.5pt,321pt,466.625pt,321.625pt,466.75pt,322.75pt,466.75pt,323.5pt,466.875pt,323.75pt,466.75pt,324pt,466.625pt,324.25pt,466.5pt,324.625pt,466.375pt,324.875pt,466.375pt,325pt,466.25pt,325.25pt,466.125pt,325.375pt,466pt,325.5pt,465.625pt,325.5pt,465.375pt,325.5pt,465.25pt,325.5pt,465pt,325.5pt,464.75pt,325.5pt,464.5pt,325.5pt,464.25pt,325.375pt,464pt,325.125pt,463.875pt,324.875pt,463.5pt,324.375pt,463.125pt,323.875pt,462.75pt,323.25pt,462.375pt,322.75pt,462.125pt,322.25pt,461.875pt,321.875pt,461.625pt,321.5pt,461.5pt,321.25pt,461.375pt,320.875pt,461.5pt,320.5pt,461.5pt,320pt,461.625pt,319.75pt,461.75pt,319.375pt,461.875pt,319.125pt,461.875pt,318.875pt,462pt,318.625pt,462.375pt,318.375pt,462.625pt,318.125pt,463pt,318pt,463.25pt,318pt,463.5pt,317.875pt,463.875pt,317.625pt,464.25pt,317.5pt,464.625pt,317.375pt,465pt,317.25pt,465.375pt,317.25pt,465.625pt,317.125pt,466pt,317.125pt,466.375pt,317.125pt,466.75pt,317.25pt,467.125pt,317.375pt,467.625pt,317.5pt,468.125pt,317.75pt,468.75pt,318.5pt,470.25pt,318.875pt,470.875pt,319.25pt,471.5pt,319.75pt,472.125pt,320.125pt,472.5pt,320.5pt,472.875pt,320.75pt,473.25pt,321.125pt,473.5pt,321.5pt,473.875pt,321.875pt,474.125pt,322.375pt,474.25pt,322.75pt,474.375pt,323.25pt,474.5pt,323.75pt,474.5pt,324.125pt,474.5pt,324.625pt,474.625pt,325.125pt,474.5pt,325.5pt,474.375pt,326pt,474.25pt,326.5pt,474pt,327pt,473.625pt,328.375pt,472.5pt"
+   coordsize="102,107" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation93" o:spid="_x0000_s6177"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="331.875pt,452.875pt,331.875pt,456pt,332pt,457pt,332.25pt,458.5pt,332.625pt,460.125pt,332.875pt,461.375pt,333.25pt,462.5pt,334.25pt,466.375pt,334.5pt,467.125pt,334.625pt,467.875pt,334.875pt,468.5pt,335.375pt,469.75pt,335.625pt,470.5pt,335.875pt,471pt,336.125pt,471.625pt,337.5pt,474.625pt"
+   coordsize="46,175" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation94" o:spid="_x0000_s6178"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="327.625pt,464.125pt,327.625pt,463pt,327.75pt,462.5pt,327.875pt,462.125pt,328pt,461.875pt,328.25pt,461.625pt,328.375pt,461.375pt,328.625pt,461pt,329pt,460.875pt,329.5pt,460.75pt,330pt,460.75pt,330.625pt,460.625pt,331.125pt,460.625pt,331.625pt,460.625pt,332.75pt,460.625pt,336.5pt,460.5pt,337.5pt,460.625pt,338.25pt,460.75pt,341.375pt,461.5pt,342pt,461.625pt,342.625pt,461.75pt,343pt,461.875pt,343.25pt,462pt,343.5pt,462.125pt,343.625pt,462.25pt,343.625pt,462.5pt,343.5pt,462.75pt,343.375pt,462.875pt,343.25pt,463.125pt,343.25pt,463.375pt,343.25pt,463.625pt,343.125pt,463.75pt,343pt,463.875pt,342.75pt,463.875pt,342.625pt,464.125pt,342.375pt,464.375pt,342.125pt,464.75pt,341.875pt,465.125pt,341.75pt,465.375pt,341.5pt,465.625pt,341.125pt,466pt,340.375pt,467.125pt,340.125pt,467.625pt,340pt,468pt,339.875pt,468.375pt,339.875pt,468.625pt,339.875pt,468.875pt,340pt,469.125pt,340.25pt,469.375pt,340.375pt,469.625pt,340.625pt,469.875pt,340.875pt,470.125pt,341.25pt,470.25pt,341.75pt,470.375pt,342.25pt,470.375pt,343.375pt,470.375pt,344pt,470.375pt,344.25pt,470.25pt,344.75pt,470pt,345pt,469.875pt,345.25pt,469.625pt,345.5pt,469.375pt,345.875pt,469pt,346.125pt,468.75pt,346.375pt,468.375pt,346.375pt,468.125pt,346.5pt,467.625pt,346.5pt,467.375pt,346.625pt,467pt,346.625pt,466.75pt,346.625pt,466.375pt,346.625pt,465.625pt,346.5pt,465.125pt,346.375pt,464.75pt,346.25pt,464.25pt,346.125pt,463.75pt,345.875pt,463.375pt,345.625pt,462.875pt,345.5pt,462.5pt,345.25pt,462.125pt,345pt,461.875pt,344.5pt,461.375pt,341.75pt,458.5pt"
+   coordsize="153,96" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation95" o:spid="_x0000_s6179"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="346pt,461.25pt,346.25pt,462.75pt,346.5pt,463.125pt,346.75pt,463.5pt,346.875pt,463.625pt,347.125pt,464pt,347.375pt,464.25pt,347.625pt,464.75pt,348pt,465.25pt,349pt,466.75pt,349.5pt,467.375pt,349.875pt,468pt,350.25pt,468.625pt,350.5pt,469pt,350.75pt,469.375pt,351pt,469.75pt,351.25pt,470.125pt,351.5pt,470.75pt,351.75pt,471.375pt,352pt,471.625pt,352pt,471.75pt,352.125pt,471.75pt,352.125pt,471.625pt,352.25pt,471.375pt,352.25pt,471pt,352.25pt,470.625pt,352.25pt,469.875pt,352.375pt,469.125pt,352.5pt,468.375pt,352.625pt,467.375pt,352.75pt,466.375pt,352.875pt,465.5pt,352.875pt,464.5pt,353pt,463.75pt,353.375pt,463.125pt,354.125pt,461.625pt,354.375pt,461.625pt,354.75pt,461.625pt,355pt,461.75pt,355.375pt,461.875pt,355.625pt,462pt,356pt,462.25pt,356.125pt,462.5pt,356.25pt,462.75pt,356.375pt,462.875pt,359.5pt,469.5pt,362.125pt,475.25pt,362.375pt,475.75pt,362.75pt,476pt,363.5pt,476.75pt"
+   coordsize="141,125" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation96" o:spid="_x0000_s6180"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="169.5pt,495pt,168.75pt,494.25pt"
+   coordsize="7,7" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation97" o:spid="_x0000_s6181"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="169.5pt,497.125pt,169.5pt,496.5pt,169.5pt,496.375pt,169.625pt,496.25pt,169.875pt,496pt,169.875pt,495.875pt,170pt,495.625pt,170pt,495.375pt,170pt,495.25pt,169.875pt,495.25pt,169.75pt,495.125pt,169.5pt,495.125pt,169.125pt,495pt,168.75pt,495pt,168.5pt,495pt,168.375pt,494.75pt,168pt,494.25pt"
+   coordsize="17,24" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation98" o:spid="_x0000_s6182"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="194.75pt,486.625pt,194.125pt,485.375pt,194.125pt,485pt,194.125pt,484.875pt,194pt,484.75pt,193.875pt,484.625pt,193.5pt,484.5pt,193pt,484.5pt,192.625pt,484.75pt,192.25pt,485.125pt,191.625pt,485.625pt,190pt,487.125pt,186.875pt,490.25pt,186.125pt,491.125pt,185.375pt,492.125pt,184.5pt,493.375pt,183.875pt,494.375pt,183.375pt,495.25pt,183pt,496.125pt,182.625pt,496.875pt,182.25pt,497.75pt,182pt,498.375pt,181.75pt,499.125pt,181.625pt,499.875pt,181.625pt,500.625pt,181.625pt,501.25pt,181.75pt,501.75pt,181.875pt,502.375pt,182pt,503pt,182.375pt,504.25pt,182.625pt,504.75pt,182.875pt,505.125pt,183.125pt,505.5pt,183.375pt,505.875pt,183.75pt,506.375pt,184.125pt,506.75pt,184.625pt,507.125pt,185.25pt,507.5pt,185.75pt,507.75pt,186.375pt,508pt,186.875pt,508.125pt,187.375pt,508.125pt,188pt,508.375pt,188.625pt,508.5pt,189.25pt,508.625pt,189.875pt,508.75pt,190.375pt,508.625pt,190.875pt,508.625pt,191.375pt,508.5pt,191.875pt,508.5pt,192.375pt,508.375pt,192.75pt,508.375pt,193.125pt,508.125pt,193.5pt,508pt,193.75pt,507.75pt,194.25pt,507.375pt,194.625pt,507pt,195pt,506.625pt,195.25pt,506.125pt,195.625pt,505.75pt,195.875pt,505pt,196pt,504.375pt,196.125pt,7in,196.125pt,503.625pt,196.125pt,502.75pt,196.125pt,502.25pt,196pt,501.75pt,195.75pt,501.375pt,195.375pt,500.875pt,195.125pt,500.375pt,194.875pt,499.875pt,194.625pt,499.5pt,194.25pt,499pt,193.875pt,498.75pt,193.5pt,498.375pt,193pt,498.125pt,192.375pt,497.875pt,191.75pt,497.625pt,191.25pt,497.375pt,190.125pt,496.875pt,189.625pt,496.75pt,189pt,496.625pt,188.375pt,496.5pt,187.625pt,496.375pt,187pt,496.25pt,186.25pt,496.125pt,185.625pt,496pt,185.125pt,496.125pt,184.625pt,496.125pt,184.125pt,496.25pt,183.625pt,496.25pt,182.625pt,496.375pt,182pt,496.375pt,181.875pt,496.5pt,181.625pt,496.625pt,181.5pt,497pt,181.375pt,497.875pt"
+   coordsize="119,195" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation99" o:spid="_x0000_s6183"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="217.25pt,486.625pt,217.25pt,490.375pt,217.375pt,491.5pt,217.5pt,492.375pt,217.625pt,493.25pt,217.75pt,494.375pt,217.875pt,495.5pt,217.875pt,496.75pt,218pt,497.75pt,218.125pt,498.75pt,218.375pt,499.625pt,218.375pt,500.375pt,218.5pt,501pt,218.625pt,501.625pt,218.625pt,502.125pt,218.625pt,503.125pt,218.75pt,503.625pt,218.875pt,504.125pt,219pt,504.625pt,219.125pt,505pt,219.25pt,505.375pt,219.375pt,506pt,220.125pt,506.25pt"
+   coordsize="24,158" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation100" o:spid="_x0000_s6184"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="220.75pt,495.75pt,221.5pt,496.125pt,222pt,496.375pt,223.125pt,497pt,224pt,497.5pt,224.625pt,497.625pt,225.5pt,497.75pt,226.25pt,497.75pt,226.625pt,497.75pt,227.5pt,497.375pt,228pt,497.25pt,228.5pt,497pt,228.75pt,496.75pt,229.25pt,496.125pt,229.625pt,495.25pt,229.875pt,494.75pt,230.125pt,494.125pt,230.375pt,493.25pt,230.5pt,492.625pt,230.625pt,492pt,230.5pt,491.75pt,230.25pt,491.25pt,229.625pt,490.5pt,229.375pt,490.375pt,229pt,490.25pt,228.25pt,490.125pt,228pt,490.125pt,227.625pt,490.5pt,226.875pt,491pt,226.125pt,491.75pt,225.75pt,492.375pt,225.25pt,493.25pt,224.75pt,494.125pt,224.5pt,495pt,224.375pt,495.5pt,224.375pt,496pt,224.375pt,496.375pt,224.375pt,496.875pt,224.375pt,497.875pt,224.25pt,498.25pt,224.375pt,498.75pt,224.5pt,499.25pt,225.25pt,501.5pt,225.625pt,502pt,226.375pt,502.75pt,227pt,503.125pt,227.25pt,503.25pt,228pt,503.375pt,228.875pt,503.375pt,229.75pt,503.375pt,230.125pt,503.375pt,230.625pt,503.25pt,231.125pt,503pt,231.625pt,502.875pt,232pt,502.625pt,232.5pt,502.5pt,233pt,502.125pt,233.625pt,501.75pt,237pt,499.75pt,237.875pt,499.125pt,238.625pt,498.625pt,239.25pt,498.125pt,239.75pt,497.625pt,240.125pt,497.125pt,240.875pt,496.25pt,241.75pt,495.625pt,242pt,495.25pt,242.25pt,494.875pt,242.5pt,493.875pt,242.875pt,492.75pt,242.875pt,492.25pt,242.875pt,492pt,242.625pt,491.625pt,242.25pt,491.5pt,241.875pt,491.5pt,241.5pt,491.625pt,241pt,491.875pt,240.625pt,492.25pt,240.125pt,492.625pt,239pt,493.75pt,238pt,494.75pt,237.5pt,495.25pt,237.25pt,495.625pt,236.875pt,496.125pt,236.625pt,496.625pt,236.375pt,497.125pt,236pt,497.625pt,235.875pt,498pt,235.75pt,498.5pt,235.625pt,499.375pt,235.625pt,500pt,235.75pt,500.75pt,235.875pt,501.25pt,236.125pt,501.5pt,236.375pt,501.625pt,237.125pt,502.125pt,237.625pt,502.375pt,238.375pt,502.5pt,238.875pt,502.625pt,239.25pt,502.625pt,239.625pt,502.5pt,241pt,501.75pt,241.75pt,501.25pt,242.375pt,500.75pt,243.125pt,500pt,243.875pt,499.125pt,244.125pt,498.75pt,244.375pt,498.125pt,244.625pt,497.625pt,244.875pt,497pt,245.125pt,496.375pt,245.625pt,495.375pt,245.75pt,494.875pt,245.875pt,494.375pt,246pt,493.875pt,246pt,493.375pt,246pt,492.875pt,246pt,492.375pt,246.125pt,491.5pt,246.125pt,491pt,246pt,490.625pt,245.75pt,490pt,245.625pt,489.875pt,245.5pt,489.875pt,245.5pt,489.875pt,245.375pt,490.25pt,245.375pt,491pt,245.375pt,492.75pt,245.5pt,493.5pt,245.75pt,495.625pt,245.875pt,496.625pt,246pt,497.625pt,246pt,498.625pt,246.125pt,499.625pt,246.25pt,500.625pt,246.5pt,501.5pt,246.875pt,503.375pt,247.25pt,505.375pt,248pt,508.625pt,248.5pt,510.625pt,248.625pt,511.75pt,249.125pt,514.25pt,249.25pt,515.25pt,249.375pt,516.125pt,249.5pt,516.75pt,249.5pt,517.375pt,249.375pt,517.75pt,249pt,518.5pt,248.625pt,519pt,248.375pt,519.25pt,248.125pt,519.375pt,248pt,519.5pt,247.75pt,519.375pt,247.5pt,519.375pt,247pt,519pt,246.25pt,518.625pt,244.75pt,517.75pt,243.75pt,517.25pt,243pt,516.625pt,242.25pt,516.125pt,241.625pt,515.625pt,241.125pt,515.125pt,240.625pt,514.5pt,240.125pt,513.875pt,239.625pt,513.25pt,238.625pt,511.875pt,238.125pt,511.25pt,237.625pt,510.625pt,237.25pt,510.125pt,236.75pt,509.75pt,236.25pt,509.375pt,235.75pt,509pt,235.5pt,508.625pt,235.25pt,508.25pt,235pt,507.5pt,234.375pt,506.5pt,234.25pt,506pt,234.25pt,505.875pt,234.375pt,505.75pt,234.875pt,505.5pt"
+   coordsize="231,238" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation101" o:spid="_x0000_s6185"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="256pt,489.375pt,255.625pt,489.375pt,255.25pt,489.5pt,255pt,489.625pt,254.625pt,489.75pt,252.125pt,490.75pt,251.25pt,491pt,250.25pt,491.375pt,249.375pt,491.625pt,248.75pt,491.875pt,248.375pt,492.125pt,248pt,492.375pt,247.875pt,492.625pt,247.75pt,492.875pt,247.625pt,493.125pt,247.75pt,493.375pt,248pt,493.625pt,248.25pt,493.875pt,248.625pt,494pt,249pt,494.25pt,249.5pt,494.5pt,250.125pt,494.75pt,250.75pt,495pt,251.5pt,495.25pt,252.375pt,495.375pt,253pt,495.5pt,253.75pt,495.625pt,254.5pt,495.75pt,255.25pt,496pt,259.125pt,498pt,259.625pt,498.25pt,259.875pt,498.5pt,260.25pt,498.75pt,260.5pt,499pt,260.625pt,499.25pt,260.625pt,499.5pt,260.75pt,499.625pt,260.75pt,499.875pt,260.75pt,500.125pt,260.625pt,500.5pt,260.375pt,500.875pt,260.125pt,501.25pt,259.75pt,501.5pt,259.5pt,501.625pt,259.25pt,501.75pt,258.875pt,502pt,257.75pt,502.375pt,257.375pt,502.5pt,257pt,502.75pt,256.625pt,503pt,256.25pt,503.125pt,255.875pt,503.25pt,255.375pt,503.25pt,255pt,503.25pt,254.75pt,503.125pt,254.375pt,503pt,254.125pt,502.875pt,253.875pt,502.875pt,253.625pt,502.875pt,253.25pt,502.75pt,252.875pt,502.625pt,252.5pt,502.375pt,252.125pt,502.25pt,251.875pt,502pt,251pt,501.375pt"
+   coordsize="106,112" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation102" o:spid="_x0000_s6186"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="418.375pt,434.5pt,418.375pt,433.875pt,418.25pt,434pt,418.125pt,434.125pt,417.75pt,434.5pt,417.75pt,434.5pt,417.875pt,434.5pt,418pt,434.5pt,418.25pt,434.5pt,419pt,434.5pt,418.875pt,434.625pt,418.25pt,434.875pt,418pt,435pt,417.75pt,435.125pt,417pt,435.25pt"
+   coordsize="17,12" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation103" o:spid="_x0000_s6187"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="423.25pt,416.25pt,423.625pt,417pt,423.75pt,417.5pt,423.875pt,418pt,423.875pt,418.625pt,423.875pt,419.25pt,424pt,420.5pt,424.125pt,421.875pt,425.625pt,431pt,425.875pt,432.5pt,426.125pt,433.75pt,426.25pt,435pt,426.5pt,436.5pt,427pt,440pt,427.125pt,440.875pt,427.25pt,441.25pt,427.375pt,441.125pt,427.375pt,440.25pt,427.5pt,434.875pt,427.5pt,434.125pt,427.625pt,433.25pt,427.75pt,432.5pt,427.875pt,431.75pt,428pt,431.125pt,428.25pt,430.5pt,428.5pt,430pt,428.75pt,429.5pt,429.125pt,428.5pt,429.375pt,428.125pt,429.625pt,427.75pt,429.875pt,427.375pt,430.125pt,427.125pt,430.375pt,426.875pt,430.5pt,426.625pt,430.75pt,426.375pt,431pt,426.375pt,431.25pt,426.25pt,431.5pt,426.25pt,431.75pt,426.125pt,6in,426.125pt,432.25pt,426.25pt,432.375pt,426.375pt,432.625pt,426.5pt,432.875pt,426.75pt,433.125pt,427.125pt,433.375pt,427.5pt,433.625pt,428.25pt,433.75pt,428.75pt,433.875pt,429.125pt,434pt,429.625pt,434.125pt,430.125pt,434.25pt,430.625pt,434.375pt,431.25pt,434.375pt,431.875pt,434.5pt,432.625pt,434.875pt,434.625pt,435.125pt,435.625pt,435.5pt,436.75pt,435.875pt,437.875pt,436.25pt,438.875pt,436.5pt,439.625pt,436.75pt,440.25pt,437pt,440.875pt,437.125pt,441.625pt,437.125pt,442.25pt,437.25pt,442.875pt,437.625pt,443.625pt,438pt,444.375pt"
+   coordsize="119,226" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation104" o:spid="_x0000_s6188"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="440.125pt,431pt,440.125pt,432.125pt,440.25pt,432.75pt,440.375pt,433.5pt,441.125pt,437.375pt,441.375pt,438.125pt,441.75pt,438.75pt,442.125pt,439.25pt,442.5pt,439.625pt,442.875pt,440pt,443.125pt,440.25pt,443.375pt,440.375pt,443.625pt,440.375pt,444.125pt,440.25pt,444.625pt,440.25pt,444.75pt,440pt,444.875pt,439.75pt,444.875pt,439.375pt,445.25pt,438.875pt,445.625pt,438.25pt,446pt,437.5pt,447.125pt,435.375pt,447.5pt,434.5pt,447.75pt,433.75pt,448pt,432.75pt,448.25pt,432.125pt,448.5pt,431.625pt,448.75pt,431.125pt,449.125pt,430.25pt,449.125pt,429.875pt,449.25pt,429.875pt,449.25pt,430.625pt,449.375pt,431.375pt,449.5pt,432.125pt,449.625pt,432.875pt,450pt,435.25pt,450.25pt,436.625pt,450.5pt,437.875pt,450.75pt,439pt,452.125pt,445.625pt,452.75pt,448.375pt,453.75pt,453.25pt,454.125pt,455.25pt,454.375pt,457pt,454.625pt,458.375pt,454.75pt,459.625pt,454.75pt,460.625pt,454.875pt,461.5pt,454.875pt,463.125pt,454.875pt,463.875pt,454.75pt,465pt,454.375pt,465.75pt,454pt,466.625pt,453.625pt,467pt,453.25pt,467.125pt,452.875pt,467.375pt,452.5pt,467.375pt,452pt,467.5pt,451.625pt,467.5pt,451.125pt,467.5pt,450.625pt,467.375pt,450.25pt,467.125pt,449.75pt,467pt,449.25pt,466.75pt,448.875pt,466.625pt,448.25pt,466.25pt,447.625pt,466pt,447pt,465.5pt,446.5pt,465.125pt,445.875pt,464.75pt,445.375pt,464.25pt,444.875pt,463.75pt,444.375pt,463.125pt,443.875pt,462.5pt,443.5pt,461.875pt,443pt,461.375pt,442pt,460.375pt,441.125pt,459.375pt,440.75pt,458.875pt,440.375pt,458.5pt,440pt,458pt,439.75pt,457.25pt,439.625pt,457pt,439.375pt,456.375pt,439.125pt,456.125pt,438.875pt,455.625pt,438.875pt,455.375pt,438.875pt,455.125pt,439.375pt,454.25pt,439.5pt,453.5pt"
+   coordsize="129,302" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation105" o:spid="_x0000_s6189"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="459.875pt,419.75pt,460.25pt,420.875pt,461.25pt,424.25pt,461.5pt,425.25pt,461.625pt,426pt,461.75pt,426.75pt,461.875pt,427.5pt,462.25pt,429.25pt,462.5pt,430.125pt,462.75pt,430.875pt,462.875pt,431.625pt,463.125pt,433pt,463.375pt,434.75pt,463.625pt,436.75pt,463.875pt,438.25pt,464.125pt,439.5pt,464.25pt,440.375pt,464.5pt,441.125pt,464.5pt,441.875pt,464.625pt,442.5pt,464.75pt,443pt,465.125pt,443.625pt,465.125pt,443.875pt,465.125pt,443.875pt,465pt,443.75pt,464.875pt,443.375pt,464.625pt,442.625pt,464.5pt,441.875pt,464.125pt,440.875pt,463.875pt,439.875pt,463.375pt,438.75pt,463pt,437.75pt,462.375pt,436.75pt,461.75pt,435.75pt,461.25pt,435pt,460.875pt,434.5pt,460.5pt,434pt,460.25pt,433.625pt,460pt,433.375pt,459.625pt,433pt,459.375pt,432.875pt,459.125pt,432.75pt,458.875pt,432.625pt,458.625pt,432.625pt,458.25pt,432.75pt,457.875pt,432.875pt,457.5pt,433pt,457.125pt,433.25pt,456.875pt,433.375pt,456.5pt,433.625pt,456.125pt,433.875pt,455.75pt,434.125pt,455.375pt,434.375pt,455.125pt,434.75pt,454.75pt,435.125pt,454.5pt,435.75pt,454.375pt,436.375pt,454.25pt,436.75pt,454.25pt,437.25pt,454.25pt,438.125pt,454.25pt,438.5pt,454.25pt,439pt,454.375pt,439.5pt,454.625pt,439.875pt,454.75pt,440.375pt,455pt,440.875pt,455.25pt,441.375pt,455.5pt,441.75pt,455.875pt,442pt,456.25pt,442.375pt,456.625pt,442.625pt,457.125pt,442.875pt,457.5pt,443.125pt,458.5pt,443.625pt,460.375pt,444.625pt,460.75pt,444.75pt,461.25pt,444.875pt,461.75pt,445pt,462.25pt,444.875pt,462.625pt,444.75pt,463.125pt,444.625pt,463.625pt,444.5pt,464.125pt,444.25pt,464.5pt,444.125pt,464.875pt,443.875pt,465.25pt,443.625pt,465.625pt,443.375pt,465.875pt,443.25pt,466.125pt,443.125pt,466.875pt,443pt"
+   coordsize="102,203" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation106" o:spid="_x0000_s6190"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="469pt,435.25pt,469.375pt,436pt,469.5pt,436.375pt,469.75pt,437pt,470pt,437.625pt,470.125pt,438.125pt,470.375pt,438.625pt,470.875pt,439.625pt,471.375pt,440.625pt,471.625pt,441pt,471.75pt,441.375pt,472pt,441.625pt,472.25pt,441.75pt,472.25pt,441.75pt,472.375pt,441.75pt,472.375pt,441.625pt,472.25pt,441.375pt,472.125pt,441.25pt,472pt,441pt,471.875pt,440.625pt,471.875pt,440.25pt,471.75pt,439.875pt,471.625pt,439.625pt,471.5pt,439.25pt,471.375pt,439pt,471.25pt,438.625pt,471.25pt,438.125pt,471.125pt,437.75pt,470.875pt,437.25pt,470.75pt,436.875pt,470.625pt,436.5pt,470.5pt,436.125pt,470.5pt,435.875pt,470.5pt,435.5pt,470.625pt,435.125pt,470.75pt,434.625pt,471pt,434.25pt,471.125pt,434pt,471.375pt,433.75pt,471.625pt,433.375pt,471.875pt,433.125pt,472pt,432.875pt,472.375pt,432.75pt,472.75pt,432.625pt,473.125pt,432.625pt,473.5pt,432.5pt,474pt,432.5pt,474.375pt,432.5pt,476pt,432.5pt,481.625pt,432.375pt,483pt,432.5pt,484pt,432.625pt,484.875pt,432.75pt,485.375pt,432.875pt,485.625pt,432.75pt,485.625pt,432.625pt,485.625pt,432.625pt,485.625pt,432.5pt,485.375pt,432.5pt,485.375pt,432.5pt,485.25pt,432.625pt,485.25pt,432.875pt,485pt,433pt,484.75pt,433.25pt,484.375pt,433.375pt,484.125pt,433.75pt,483.875pt,434pt,483.625pt,434.5pt,483.375pt,434.75pt,483.125pt,435.125pt,482.875pt,435.375pt,482.625pt,435.75pt,482.375pt,436.125pt,482.125pt,436.5pt,481.875pt,437.125pt,481.625pt,437.75pt,481.375pt,438.625pt,481.25pt,439.25pt,481.125pt,439.625pt,481.125pt,440.125pt,481pt,440.5pt,481pt,440.875pt,481pt,441.375pt,481pt,441.75pt,481.125pt,442.125pt,481.5pt,442.75pt,481.625pt,442.875pt,482pt,442.875pt,482.625pt,443pt,482.875pt,442.875pt,483.25pt,442.625pt,483.5pt,442.375pt,483.75pt,442.25pt,484pt,442pt,484.125pt,441.75pt,484.25pt,441.5pt,484.375pt,441.375pt,484.5pt,441pt,484.625pt,440.625pt,485pt,439.875pt,485.375pt,439pt,485.625pt,438.5pt,485.625pt,438pt,485.75pt,437.625pt,485.75pt,437pt,485.75pt,436.375pt,485.875pt,435.75pt,485.875pt,435.5pt,486pt,435.25pt,486.25pt,435.25pt,486.375pt,435.375pt,486.375pt,435.625pt,486.5pt,436pt,486.625pt,436.625pt,486.875pt,437.375pt,487.25pt,438.375pt,487.625pt,439.125pt,488.125pt,440pt,488.5pt,440.75pt,488.875pt,441.25pt,489.25pt,441.625pt,489.5pt,441.75pt,489.75pt,442pt,490pt,442.25pt,490.25pt,442.5pt,490.5pt,442.625pt,491pt,442.875pt,491.125pt,442.75pt,491.25pt,442.75pt,491.5pt,442.25pt"
+   coordsize="181,86" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation107" o:spid="_x0000_s6191"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="492.25pt,435.25pt,492.5pt,436pt,492.625pt,436.375pt,492.75pt,436.75pt,492.75pt,437.25pt,492.875pt,437.625pt,493pt,438.125pt,493.25pt,438.5pt,493.375pt,439.125pt,493.625pt,439.875pt,493.875pt,440.625pt,494.25pt,441.5pt,494.75pt,442.125pt,495.25pt,442.875pt,495.875pt,443.5pt,496.375pt,443.875pt,496.875pt,444.375pt,497.25pt,444.625pt,497.625pt,444.75pt,497.875pt,444.875pt,498.25pt,444.875pt,498.625pt,445pt,499.125pt,445pt,499.375pt,445pt,499.75pt,444.875pt,500pt,444.625pt,500.375pt,444.5pt,500.625pt,444.25pt,500.875pt,444.125pt,501pt,443.75pt,501.125pt,443.5pt,501.125pt,443pt,501.25pt,442.625pt,501.5pt,442.25pt,501.625pt,441.75pt,501.75pt,441.25pt,501.875pt,440.875pt,501.875pt,440.375pt,502pt,439.875pt,502pt,439.5pt,502pt,438.5pt,502pt,437.625pt,501.875pt,437pt,501.625pt,436.375pt,500.875pt,434.875pt,500.625pt,434.75pt,500.5pt,434.5pt,500.125pt,434pt,499.25pt,433.875pt"
+   coordsize="79,90" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation108" o:spid="_x0000_s6192"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="504.125pt,420.5pt,504.5pt,421.625pt,504.625pt,422.125pt,504.75pt,422.5pt,504.75pt,423pt,505pt,424.75pt,505.25pt,426pt,505.25pt,426.875pt,505.375pt,427.875pt,505.5pt,428.625pt,505.5pt,429.5pt,505.75pt,430.25pt,505.875pt,431pt,506pt,431.75pt,506.125pt,432.625pt,506.125pt,433.5pt,506.25pt,434.25pt,506.375pt,434.875pt,506.875pt,436.375pt,507.625pt,438.5pt,507.875pt,439.375pt,508pt,440pt,508.125pt,440.5pt,508.25pt,440.875pt,508.5pt,441.125pt,508.625pt,441.25pt,508.75pt,441.375pt,508.625pt,441.375pt,508.625pt,441.5pt,508.5pt,441.375pt,508.5pt,441.375pt,508.375pt,440.875pt,508.375pt,438.75pt"
+   coordsize="38,169" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation109" o:spid="_x0000_s6193"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="512.625pt,435.25pt,512.625pt,435.625pt,512.625pt,436pt,512.75pt,436.375pt,513.125pt,437.5pt,513.5pt,438.875pt,513.75pt,439.5pt,514pt,440pt,514.25pt,440.5pt,514.375pt,441pt,514.5pt,441.25pt,514.5pt,441.625pt,514.625pt,441.875pt,514.875pt,442.25pt,515pt,442.5pt,515.25pt,442.75pt,515.375pt,443.125pt,516.125pt,444.375pt"
+   coordsize="29,74" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation110" o:spid="_x0000_s6194"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="515.375pt,428.875pt,515.375pt,428.25pt"
+   coordsize="1,6" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation111" o:spid="_x0000_s6195"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="525.25pt,433.875pt,524.5pt,434.25pt,524.25pt,434.375pt,523.875pt,434.625pt,523.625pt,434.75pt,523.375pt,435pt,523pt,435.25pt,522.5pt,435.5pt,522.125pt,435.75pt,521.625pt,436.125pt,521.25pt,436.5pt,520.875pt,437pt,520.5pt,437.375pt,520.25pt,437.875pt,519.875pt,438.25pt,519.625pt,438.75pt,519.375pt,439.25pt,519.375pt,439.625pt,519.375pt,440pt,519.375pt,440.25pt,519.5pt,440.625pt,519.5pt,441pt,519.5pt,441.375pt,519.625pt,441.75pt,519.75pt,442.125pt,520pt,442.375pt,520.25pt,442.75pt,520.625pt,443.125pt,521pt,443.5pt,521.375pt,443.875pt,521.75pt,444.25pt,522.25pt,444.5pt,522.75pt,444.75pt,523.125pt,445pt,523.625pt,445.25pt,524pt,445.5pt,524.375pt,445.5pt,524.625pt,445.625pt,525pt,445.75pt,525.375pt,445.875pt,525.75pt,446.125pt,526.25pt,446.25pt,526.625pt,446.375pt,527.125pt,446.375pt,527.5pt,446.375pt,527.875pt,446.25pt,528.125pt,446.125pt,528.375pt,446pt,528.75pt,445.875pt,529.5pt,445.75pt"
+   coordsize="82,101" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation112" o:spid="_x0000_s6196"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="514.75pt,426.125pt,514.125pt,426.125pt,514pt,426.125pt,514pt,426.25pt,514pt,426.5pt,514pt,426.625pt,514pt,427.5pt"
+   coordsize="7,12" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation113" o:spid="_x0000_s6197"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="552pt,421.125pt,552pt,425.375pt,552pt,427.375pt,552.5pt,435.875pt,552.625pt,438.625pt,552.625pt,441.125pt,552.75pt,442.375pt,552.875pt,443.375pt,553.375pt,447pt,553.625pt,448.5pt,554.75pt,455.625pt"
+   coordsize="23,277" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation114" o:spid="_x0000_s6198"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="540.75pt,439.5pt,540.375pt,438.75pt,540.25pt,438.375pt,540.125pt,438.125pt,540.125pt,437.875pt,540.125pt,437.625pt,540.25pt,437.375pt,540.375pt,437.125pt,540.625pt,436.875pt,541pt,436.375pt,541.625pt,436pt,542.5pt,435.5pt,543.125pt,435.25pt,543.75pt,435pt,545pt,434.5pt,545.625pt,434.25pt,546.5pt,434.125pt,547.25pt,434pt,548.125pt,434pt,549pt,433.875pt,549.875pt,433.625pt,550.875pt,433.5pt,552pt,433.375pt,553.25pt,433.25pt,554.75pt,433.25pt,555.875pt,433.25pt,556.875pt,433.375pt,557.875pt,433.5pt,558.75pt,433.625pt,559.5pt,433.75pt,560.25pt,433.75pt,561.75pt,433.75pt,562.5pt,433.75pt,563.125pt,433.875pt,563.625pt,434pt,564.25pt,434.25pt,565.25pt,434.625pt,565.75pt,434.75pt,566.125pt,435pt,566.25pt,435.25pt,566.375pt,435.5pt,566.625pt,436pt,566.625pt,436.125pt,566.625pt,436.375pt,566.375pt,436.875pt,566.125pt,437.25pt,565.75pt,438pt,565.375pt,438.375pt,565.125pt,438.75pt,564.75pt,439.25pt,563.375pt,440.625pt,559.625pt,444.375pt,559.375pt,444.75pt,559.25pt,445.25pt,559.125pt,445.625pt,559.125pt,446pt,559.125pt,446.25pt,559pt,446.625pt,559pt,446.875pt,559pt,447.125pt,559pt,447.375pt,559.125pt,447.625pt,559.25pt,447.875pt,559.625pt,448.5pt,559.75pt,448.375pt,560.25pt,448pt,560.625pt,447.625pt,562pt,446.25pt,562.25pt,445.875pt,562.5pt,445.625pt,562.75pt,445.125pt,563pt,444.5pt,563.75pt,442.75pt,564.125pt,441.875pt,564.75pt,440.25pt,565.5pt,438.125pt,565.625pt,437.5pt,565.75pt,437.125pt,565.875pt,436.75pt,566pt,436.5pt,566.125pt,436.25pt,566.625pt,436pt,566.875pt,436.375pt,567pt,436.75pt,568.25pt,439.5pt,569.125pt,441.625pt,569.875pt,443.125pt,570.625pt,444.375pt,571.125pt,445.25pt,571.625pt,446pt,572pt,446.5pt,572.375pt,447pt,572.625pt,447.25pt,572.75pt,447.25pt,573pt,447.25pt"
+   coordsize="264,123" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation115" o:spid="_x0000_s6199"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="573.75pt,439.5pt,573.75pt,440.25pt,573.875pt,440.625pt,574pt,441.25pt,574.125pt,441.75pt,574.25pt,442.625pt,574.75pt,444.5pt,574.875pt,445.25pt,575pt,445.75pt,575pt,446.25pt,575.125pt,446.625pt,575.25pt,446.75pt,575.75pt,447.125pt,575.875pt,446.5pt"
+   coordsize="18,62" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation116" o:spid="_x0000_s6200"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="574.5pt,424pt,574.5pt,422.625pt"
+   coordsize="1,12" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation117" o:spid="_x0000_s6201"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="577.25pt,420.5pt,577.625pt,420.875pt,577.75pt,421.125pt,578.375pt,423.875pt,578.625pt,425.375pt,578.875pt,426.5pt,579.125pt,427.5pt,579.125pt,428.5pt,581.5pt,447.25pt"
+   coordsize="35,215" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation118" o:spid="_x0000_s6202"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="604.75pt,438.75pt,604.75pt,439.125pt,605.125pt,443.375pt,605.25pt,444.25pt,605.25pt,445pt,605.375pt,445.625pt,605.5pt,446pt,605.75pt,446.375pt,606pt,446.875pt,606.375pt,447.5pt,606.75pt,448.125pt,607.125pt,448.625pt,607.375pt,449pt,607.625pt,449.25pt,607.875pt,449.5pt,608.125pt,449.75pt,608.375pt,449.75pt,608.75pt,449.875pt,609.125pt,449.875pt,609.5pt,450pt,609.875pt,450pt,610.5pt,450pt,610.75pt,449.875pt,611pt,449.75pt,611.25pt,449.625pt,611.375pt,449.375pt,611.5pt,449.25pt,611.625pt,449pt,611.75pt,448.75pt,612pt,448pt,612.125pt,447.5pt,612.25pt,447.125pt,612.25pt,446.625pt,612.375pt,446.25pt,612.375pt,445.75pt,612.375pt,445.25pt,612.375pt,443.125pt,612.375pt,442.5pt,612.25pt,441.875pt,612pt,441.25pt,611.875pt,440.5pt,611.625pt,439.375pt,611pt,435.25pt"
+   coordsize="62,119" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation119" o:spid="_x0000_s6203"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="622.25pt,436.625pt,620.25pt,436.625pt,619.875pt,436.75pt,619.375pt,436.875pt,619pt,437pt,618.625pt,437.25pt,618.5pt,437.375pt,618.375pt,437.625pt,618.125pt,437.875pt,618pt,438.125pt,617.75pt,438.25pt,617.625pt,438.625pt,617.5pt,439pt,617.5pt,439.375pt,617.5pt,439.75pt,617.625pt,440pt,617.75pt,440.25pt,618.125pt,440.75pt,618.5pt,441.25pt,619.125pt,441.75pt,620.75pt,443.75pt,621.75pt,444.875pt,622.5pt,445.75pt,623pt,446.625pt,623.5pt,447.25pt,623.75pt,447.75pt,624pt,448.25pt,624.125pt,448.625pt,624.125pt,448.875pt,624pt,449.125pt,623.75pt,449.875pt,623.625pt,450pt,623.5pt,450.125pt,623.375pt,450.375pt,623.125pt,450.5pt,622.875pt,450.5pt,622.75pt,450.625pt,622.5pt,450.625pt,622.25pt,450.625pt,622pt,450.625pt,621.75pt,450.625pt,621.375pt,450.75pt,620.125pt,450.75pt"
+   coordsize="54,114" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation120" o:spid="_x0000_s6204"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="625.75pt,443.625pt,626.875pt,443.25pt,627.375pt,443.25pt,627.875pt,443.125pt,628.375pt,443.125pt,628.75pt,443pt,629.125pt,443pt,629.375pt,443pt,629.625pt,442.875pt,629.875pt,442.75pt,630.25pt,442.625pt,630.5pt,442.5pt,630.625pt,442.375pt,630.875pt,442.375pt,631.125pt,442.25pt,631.375pt,442.125pt,631.625pt,441.875pt,631.875pt,441.75pt,632.125pt,441.5pt,632.375pt,441.25pt,632.5pt,441.125pt,632.625pt,440.625pt,632.75pt,440.125pt,632.75pt,439.625pt,632.75pt,439.25pt,632.75pt,438.125pt,632.625pt,437.875pt,632.5pt,437.75pt,632.25pt,437.625pt,632pt,437.5pt,631.875pt,437.5pt,631.625pt,437.375pt,631.375pt,437.375pt,631.125pt,437.375pt,630.875pt,437.5pt,630.5pt,437.625pt,630.125pt,437.75pt,629.75pt,437.875pt,629.5pt,437.875pt,629.125pt,438pt,628.875pt,438pt,628.375pt,438.25pt,628pt,438.375pt,627.625pt,438.625pt,627.375pt,439pt,627pt,439.375pt,626.75pt,439.75pt,626.5pt,440pt,626.25pt,440.25pt,626pt,440.75pt,625.75pt,441.25pt,625.5pt,441.875pt,625.375pt,442.375pt,625.25pt,442.875pt,625.25pt,443.375pt,625.25pt,443.875pt,625.375pt,444.375pt,625.5pt,444.875pt,625.625pt,445.25pt,625.875pt,445.75pt,626.125pt,446.25pt,626.5pt,447.125pt,626.75pt,447.625pt,627.125pt,448pt,627.625pt,448.375pt,628.125pt,448.75pt,628.75pt,449pt,629.25pt,449.5pt,629.75pt,449.875pt,630.25pt,450.25pt,630.875pt,450.5pt,631.5pt,450.875pt,633.125pt,451.625pt,637pt,452.875pt"
+   coordsize="95,125" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation121" o:spid="_x0000_s6205"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="581.5pt,438.75pt,581.5pt,437.375pt"
+   coordsize="1,12" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation122" o:spid="_x0000_s6206"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="580.75pt,436pt,580.375pt,438.125pt,580.5pt,440.125pt,580.625pt,442.625pt,582.25pt,454.875pt"
+   coordsize="16,152" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation123" o:spid="_x0000_s6207"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="648.25pt,426.75pt,647.875pt,427.875pt,647.125pt,431.125pt,646.5pt,433.5pt,646.25pt,435.25pt,646pt,436.625pt,645.75pt,437.75pt,645.625pt,439pt,645.625pt,440.125pt,645.625pt,441.375pt,645.75pt,442.375pt,645.875pt,443.5pt,647pt,447pt,647.25pt,447.5pt,647.375pt,447.625pt,647.375pt,447.75pt,647.5pt,447.625pt,647.5pt,447.125pt,647.5pt,446.75pt,647.375pt,446.375pt,647.25pt,445.875pt,647pt,445.5pt,646.75pt,445.25pt,646.625pt,445pt,646.375pt,444.625pt,646.125pt,444.25pt,645.875pt,443.75pt,645.75pt,443.5pt,645.5pt,443.125pt,645.25pt,442.875pt,645pt,442.625pt,644.75pt,442.375pt,644.5pt,442.125pt,644.25pt,441.875pt,643.875pt,441.625pt,643.5pt,441.375pt,643.125pt,441.125pt,642.75pt,441.125pt,642.5pt,441pt,642.125pt,441pt,641.75pt,440.875pt,641.375pt,440.875pt,641pt,441pt,640.75pt,441.125pt,640.375pt,441.25pt,640.125pt,441.375pt,639.875pt,441.625pt,639.625pt,441.875pt,639.375pt,442pt,638.875pt,442.5pt,638.625pt,442.625pt,638.5pt,442.75pt,638.25pt,442.875pt,638pt,443pt,638pt,443.125pt,637.875pt,443.25pt,637.75pt,443.875pt,637.75pt,444.25pt,637.875pt,444.625pt,638pt,444.75pt,638.125pt,444.875pt,638.25pt,445pt,638.5pt,445.125pt,638.875pt,445.625pt,639.375pt,446pt,639.75pt,446.25pt,640pt,446.5pt,640.5pt,446.75pt,640.875pt,446.875pt,641.375pt,447pt,641.75pt,447pt,642.25pt,447.125pt,642.625pt,447.375pt,643.125pt,447.5pt,643.625pt,447.625pt,644.125pt,447.5pt,644.5pt,447.375pt,644.875pt,447.375pt,645.25pt,447.25pt,645.625pt,447.25pt,645.75pt,447.125pt,645.875pt,447pt,646.125pt,446.625pt,646.875pt,445.75pt"
+   coordsize="85,169" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation124" o:spid="_x0000_s6208"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="447.25pt,463.375pt,446.875pt,462.25pt,446.375pt,461.25pt,445.375pt,458.75pt,444.75pt,457.5pt,443.75pt,455.25pt,443.25pt,454.25pt,442.75pt,453.375pt,442.125pt,452.625pt,440.125pt,450.75pt,439.75pt,450.5pt,439.375pt,450.5pt,438.875pt,450.625pt,438.5pt,450.75pt,438.25pt,450.875pt,437.875pt,451pt,437.625pt,451.375pt,437.25pt,451.625pt,436.75pt,452pt,436.375pt,452.5pt,436.125pt,452.875pt,435.75pt,453.375pt,435.5pt,453.875pt,435.25pt,454.5pt,435pt,455.125pt,434.875pt,455.75pt,434.75pt,456.375pt,434.625pt,457.125pt,434.5pt,457.875pt,434.375pt,458.625pt,434.25pt,459.5pt,434.125pt,460.375pt,434.25pt,461.375pt,434.25pt,462.25pt,434.375pt,463.5pt,434.5pt,466.875pt,434.625pt,468.375pt,434.75pt,469.625pt,434.875pt,470.875pt,435.125pt,472.375pt,435.875pt,475.875pt,436.25pt,477.375pt,436.5pt,478.5pt,436.75pt,479.625pt,437.25pt,481.375pt,437.5pt,482.125pt,437.875pt,482.875pt,438.25pt,483.625pt,439.5pt,485.875pt"
+   coordsize="106,284" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation125" o:spid="_x0000_s6209"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="429.625pt,470.375pt,429pt,469.125pt,429pt,469.125pt,429.125pt,469.125pt,429.625pt,469pt,430.25pt,469pt,430.875pt,469pt,431.375pt,469.125pt,6in,469.25pt,432.625pt,469.375pt,433.25pt,469.5pt,433.875pt,469.5pt,434.625pt,469.625pt,435.5pt,469.75pt,437.75pt,470pt,440.125pt,470.5pt,441.375pt,470.625pt,442.125pt,470.75pt,442.875pt,470.875pt,443.375pt,471pt,443.875pt,471pt,444.375pt,471pt,444.875pt,471pt,445.125pt,471.125pt,445.375pt,471.25pt,445.5pt,471.5pt,445.5pt,471.625pt,445.5pt,471.625pt,445.375pt,471.75pt,444.75pt,472.125pt,444.375pt,472.5pt,441.5pt,475.375pt,441.25pt,475.75pt,441pt,476.125pt,440.625pt,476.625pt,440.5pt,477pt,440.375pt,477.5pt,440.25pt,477.875pt,440.25pt,478.375pt,440.25pt,478.875pt,440.25pt,479.25pt,440.25pt,479.75pt,440.375pt,480.25pt,440.5pt,480.75pt,440.875pt,481.125pt,441.375pt,481.375pt,441.875pt,481.75pt,442.375pt,482.125pt,442.875pt,482.5pt,443.375pt,482.875pt,444pt,483.25pt,444.625pt,483.375pt,445.25pt,483.5pt,445.875pt,483.625pt,446.5pt,483.875pt,447.25pt,484pt,447.875pt,484.125pt,448.375pt,484.125pt,448.875pt,484pt,449.5pt,483.875pt,450pt,483.875pt,450.375pt,483.75pt,450.875pt,483.75pt,451.5pt,483.375pt,451.75pt,483.125pt,452pt,482.75pt,452.25pt,482.375pt,452.5pt,482.125pt,452.75pt,481.75pt,453pt,481.5pt,453.25pt,481.125pt,453.25pt,480.5pt,453.375pt,480pt,453.375pt,479.5pt,453.25pt,478.875pt,453.125pt,478.375pt,452.875pt,477.875pt,452.5pt,477.5pt,452.125pt,477pt,451.75pt,476.5pt,451.375pt,476pt,450.375pt,475.125pt,449.5pt,474.125pt,449pt,473.625pt,448.375pt,473.25pt,447.75pt,472.75pt,447.125pt,472.375pt,446.625pt,472pt,446.125pt,471.75pt,445.5pt,471.375pt,444.75pt,471.125pt,443.875pt,470.875pt,443.25pt,470.625pt,442.75pt,470.375pt,441.875pt,469.875pt,440.875pt,469.75pt"
+   coordsize="196,122" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation126" o:spid="_x0000_s6210"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="453.5pt,478.125pt,453.875pt,478.875pt,454pt,479.375pt,454.125pt,479.875pt,454.25pt,481.25pt,454.25pt,481.375pt,454.25pt,480.875pt,454.25pt,480.25pt,454.125pt,479.75pt,454pt,479pt,453.875pt,478.25pt,453.75pt,477.375pt,453.625pt,476.375pt,453.625pt,474.5pt,453.5pt,472.5pt,453.5pt,470pt,453.625pt,469.5pt,453.75pt,469.25pt,453.875pt,468.875pt,454.125pt,468.625pt,454.25pt,468.375pt,454.5pt,468.125pt,454.75pt,467.875pt,455.125pt,467.75pt,455.5pt,467.75pt,456pt,467.625pt,456.375pt,467.625pt,456.875pt,467.625pt,457.375pt,467.625pt,458pt,467.75pt,458.625pt,468pt,459.125pt,468.125pt,459.75pt,468.375pt,460.25pt,468.5pt,460.75pt,468.75pt,461.75pt,469.25pt,463.125pt,469.875pt,463.5pt,470.125pt,463.875pt,470.375pt,464.75pt,471.125pt"
+   coordsize="91,111" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation127" o:spid="_x0000_s6211"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="482.375pt,455.625pt,482.375pt,460.375pt,482.25pt,461.75pt,482.125pt,463.125pt,482pt,464.625pt,481.875pt,465.875pt,481.75pt,467.125pt,481.75pt,468.25pt,481.75pt,469.25pt,481.875pt,470.25pt,482pt,471.25pt,482.25pt,472.125pt,482.375pt,473pt,483.5pt,477.125pt,484pt,478.75pt,484.25pt,479.375pt,484.5pt,480pt,484.75pt,480.5pt,484.875pt,481pt,485.125pt,481.375pt,485.375pt,481.625pt,485.625pt,482pt,485.875pt,482.25pt,486.125pt,482.5pt,486.375pt,482.75pt,486.625pt,482.875pt,486.75pt,482.875pt,487pt,483pt,487.25pt,483pt,488pt,483pt"
+   coordsize="51,220" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation128" o:spid="_x0000_s6212"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="494.25pt,466.875pt,494.25pt,467.25pt,494.25pt,467.375pt,494.125pt,467.625pt,493.875pt,467.875pt,493.875pt,468.125pt,493.75pt,468.5pt,493.75pt,468.875pt,493.625pt,469.25pt,493.375pt,469.5pt,493.25pt,469.875pt,493pt,470.375pt,492.875pt,471pt,492.625pt,471.75pt,492.375pt,472.375pt,492.125pt,473pt,492pt,473.5pt,491.75pt,474pt,491.75pt,474.5pt,491.625pt,475pt,491.625pt,475.375pt,491.5pt,475.75pt,491.5pt,476.125pt,491.5pt,476.5pt,491.5pt,477.25pt,491.625pt,477.625pt,491.75pt,478pt,491.875pt,478.25pt,492pt,478.5pt,492.25pt,478.75pt,492.5pt,479pt,492.75pt,479.25pt,493.125pt,479.25pt,493.5pt,479.375pt,493.875pt,479.375pt,494.375pt,479.5pt,494.75pt,479.5pt,495.25pt,479.375pt,495.75pt,479.25pt,496.125pt,479.125pt,496.625pt,479pt,497.125pt,478.75pt,497.625pt,478.5pt,498pt,478.25pt,498.25pt,477.875pt,498.625pt,477.5pt,498.875pt,477.125pt,499.125pt,476.875pt,499.375pt,476.625pt,499.625pt,476.25pt,499.75pt,475.875pt,499.75pt,475.375pt,499.875pt,474.875pt,499.875pt,474.375pt,499.875pt,473.75pt,499.875pt,473.125pt,499.75pt,472.625pt,499.5pt,472.125pt,499.375pt,471.625pt,499.125pt,471.125pt,499pt,470.625pt,498.625pt,470.25pt,498.25pt,469.875pt,497.875pt,469.625pt,497.5pt,469.25pt,497pt,468.875pt,496.625pt,468.375pt,496.125pt,468pt,495.625pt,467.75pt,495.25pt,467.5pt,494.625pt,467.125pt,494.125pt,466.875pt,492.25pt,466.125pt"
+   coordsize="68,108" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation129" o:spid="_x0000_s6213"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="508.375pt,465.5pt,507.75pt,464.875pt,507.625pt,465pt,507.25pt,465.25pt,506.625pt,465.875pt,506.125pt,466.375pt,505.875pt,466.625pt,505.625pt,467pt,505.375pt,467.5pt,505.125pt,467.875pt,504.625pt,468.75pt,504.5pt,469.375pt,504.375pt,469.875pt,504.25pt,470.5pt,504.125pt,471.25pt,7in,471.875pt,503.75pt,472.5pt,503.75pt,473.125pt,503.75pt,473.75pt,503.875pt,474.25pt,7in,474.875pt,7in,475.5pt,504.125pt,476.125pt,504.25pt,476.75pt,504.5pt,477.25pt,504.875pt,477.75pt,505.125pt,478.25pt,505.5pt,478.75pt,505.75pt,479.25pt,506pt,479.75pt,506.375pt,480.25pt,506.875pt,480.75pt,507.25pt,481.125pt,507.75pt,481.375pt,508.125pt,481.75pt,508.625pt,481.875pt,509.125pt,482.125pt,509.5pt,482.125pt,510pt,482.25pt,510.5pt,482.25pt,511.375pt,482.25pt,512pt,482.375pt,512.375pt,482.25pt,512.875pt,482.125pt,514.75pt,481.625pt"
+   coordsize="89,141" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation130" o:spid="_x0000_s6214"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="521.75pt,468.25pt,521.375pt,468.25pt,521.25pt,468.375pt,521.125pt,468.5pt,521.125pt,468.625pt,520.875pt,468.875pt,520.625pt,469.25pt,520pt,470pt,519.5pt,470.5pt,518.375pt,471.625pt,518pt,472.125pt,517.625pt,472.5pt,517.375pt,473pt,517.125pt,473.5pt,516.875pt,474.125pt,516.625pt,474.75pt,516.375pt,475.375pt,516.375pt,475.875pt,516.25pt,476.375pt,516.25pt,476.875pt,516.125pt,477.375pt,516.125pt,477.875pt,516.375pt,478.375pt,516.75pt,479pt,517.25pt,479.625pt,517.75pt,480.125pt,518.125pt,480.375pt,518.625pt,480.5pt,519.125pt,480.75pt,520.125pt,481.25pt,520.5pt,481.375pt,521pt,481.5pt,521.5pt,481.5pt,522pt,481.5pt,522.375pt,481.625pt,522.875pt,481.625pt,523.375pt,481.5pt,523.875pt,481.375pt,524.25pt,481.25pt,524.625pt,481pt,525pt,480.625pt,525.375pt,480.25pt,525.625pt,479.875pt,525.875pt,479.5pt,526.125pt,479pt,526.25pt,478.5pt,526.375pt,478.125pt,526.5pt,477.625pt,526.5pt,477.125pt,526.625pt,476.75pt,526.625pt,476.25pt,526.625pt,475.25pt,526.625pt,474.875pt,526.5pt,474.375pt,526.25pt,473.875pt,525.875pt,473.375pt,525.625pt,473pt,525.375pt,472.5pt,525pt,472pt,524.75pt,471.625pt,524.375pt,471.25pt,524pt,471pt,523.375pt,470.5pt,521.875pt,469.125pt,519.625pt,466.875pt"
+   coordsize="85,119" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation131" o:spid="_x0000_s6215"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="528pt,470.375pt,528.75pt,471.125pt,529pt,471.375pt,529.25pt,472pt,529.375pt,472.25pt,529.75pt,473.125pt,530.25pt,473.875pt,532.125pt,476.75pt,532.5pt,477.5pt,532.875pt,478.25pt,533.25pt,478.75pt,533.5pt,479.125pt,533.875pt,479.5pt,534pt,479.625pt,534.125pt,479.75pt,534.25pt,479.625pt,534.25pt,479.5pt,534pt,479.25pt,533.875pt,478.875pt,533.75pt,478.625pt,533.75pt,478.25pt,533.75pt,475.5pt,533.75pt,473.5pt,533.75pt,472.25pt,533.875pt,471.375pt,534pt,470.875pt,534.25pt,470.375pt,534.5pt,470pt,534.625pt,469.625pt,534.75pt,469.5pt,534.875pt,469.5pt,535.375pt,470pt,536pt,470.625pt,536.25pt,471pt,536.5pt,471.375pt,536.75pt,471.75pt,537pt,472.375pt,537.25pt,473.25pt,537.75pt,475.5pt,538.5pt,478.875pt,538.875pt,480.125pt,539.125pt,481.25pt,539.875pt,483.25pt,539.875pt,483.375pt,539.875pt,483.375pt,540pt,483.25pt,540pt,482.75pt,540pt,481.875pt,540pt,480.75pt,539.875pt,479.75pt,539.625pt,476.875pt,539.5pt,475.5pt,539.5pt,474.25pt,539.375pt,472.875pt,539.5pt,471.75pt,539.5pt,470.5pt,539.75pt,468.375pt,539.875pt,467.75pt,539.875pt,467.25pt,540pt,466.75pt,540.125pt,466.375pt,540.375pt,466.125pt,540.5pt,465.875pt,540.75pt,465.75pt,541.25pt,465.5pt,541.375pt,465.625pt,541.75pt,465.875pt,541.875pt,466pt,542pt,466.5pt,542.125pt,466.75pt,542.25pt,467.125pt,542.5pt,467.5pt,542.625pt,468.125pt,542.875pt,468.75pt,543.125pt,469.5pt,543.25pt,470.25pt,543.375pt,471pt,543.375pt,471.75pt,543.625pt,472.625pt,543.875pt,473.625pt,544.25pt,474.625pt,544.5pt,475.5pt,544.875pt,476.25pt,545.125pt,476.875pt,545.375pt,477.375pt,545.75pt,478pt,546.25pt,478.5pt,546.625pt,478.875pt,546.875pt,479.25pt,547.125pt,479.625pt,547.75pt,480.125pt,548pt,480.375pt,548.125pt,480.625pt,548.375pt,480.75pt,549.125pt,481pt"
+   coordsize="170,144" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation132" o:spid="_x0000_s6216"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="554.125pt,466.125pt,553.75pt,467.25pt,553.375pt,468pt,552.875pt,468.875pt,552.375pt,469.875pt,551.875pt,471pt,551.5pt,472.125pt,551.25pt,473.5pt,551pt,474.5pt,551pt,475.25pt,551.125pt,476pt,551.125pt,476.625pt,551.25pt,477.25pt,551.25pt,477.75pt,551.375pt,478.25pt,551.625pt,478.75pt,552pt,479.25pt,552.25pt,479.625pt,552.625pt,480pt,552.875pt,480.375pt,553.125pt,480.625pt,553.5pt,480.875pt,554pt,481.125pt,554.375pt,481.375pt,554.875pt,481.625pt,555.25pt,481.875pt,555.75pt,482pt,556.25pt,482.125pt,556.625pt,482.25pt,557pt,482.125pt,557.375pt,482.125pt,557.625pt,481.875pt,558pt,481.75pt,558.25pt,481.5pt,558.5pt,481.375pt,558.75pt,481pt,559pt,480.75pt,559.25pt,480.375pt,559.5pt,479.875pt,559.875pt,479pt,560.125pt,478.625pt,560.125pt,478.125pt,560.25pt,477.625pt,560.25pt,477.125pt,560.375pt,476.75pt,560.375pt,476.25pt,560.25pt,475.75pt,560.125pt,475.125pt,560pt,474.5pt,559.875pt,473.875pt,559.625pt,473.375pt,559.375pt,472.875pt,559.125pt,472.375pt,558.75pt,471.875pt,558.375pt,471.375pt,558pt,471pt,557.5pt,470.625pt,557.125pt,470.25pt,554.125pt,468.125pt,552.625pt,466.875pt"
+   coordsize="76,130" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation133" o:spid="_x0000_s6217"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="564.625pt,460.5pt,564.25pt,460.5pt,564.125pt,460.625pt,564pt,460.75pt,564pt,460.875pt,564pt,461.375pt,564pt,461.875pt,563.875pt,462.625pt,564.125pt,464.25pt,564.625pt,469.25pt,565pt,471.25pt,565.25pt,472.875pt,565.5pt,474.125pt,565.75pt,475.125pt,566pt,476pt,566.25pt,476.75pt,566.375pt,477.375pt,566.5pt,477.875pt,566.625pt,478.5pt,566.75pt,479.125pt,567pt,480.75pt,567.25pt,481.25pt,567.5pt,481.625pt,567.625pt,481.875pt,567.875pt,482.125pt,567.875pt,482.375pt,568.875pt,483pt"
+   coordsize="41,181" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation134" o:spid="_x0000_s6218"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="559pt,471.75pt,559.375pt,471pt,559.5pt,470.875pt,559.75pt,470.625pt,560pt,470.625pt,560.625pt,470.5pt,561pt,470.5pt,562.875pt,470.375pt,570.25pt,470.375pt,570.875pt,470.5pt,571.5pt,470.625pt,572pt,470.75pt,572.5pt,470.875pt,573pt,471pt,573.5pt,471pt,574pt,471.125pt,574.375pt,471.25pt,574.875pt,471.5pt,575.25pt,471.625pt,575.625pt,471.875pt,8in,472.125pt,576.125pt,472.25pt,576.25pt,472.5pt,576.375pt,472.75pt,576.75pt,473.625pt,576.875pt,474.125pt,577pt,474.75pt,577.125pt,475.25pt,577.125pt,475.75pt,577.25pt,476.25pt,577.25pt,476.75pt,577.25pt,477.125pt,577.375pt,477.625pt,577.5pt,477.875pt,577.625pt,478.25pt,577.75pt,478.625pt,577.875pt,479pt,577.875pt,479.375pt,578pt,479.875pt,578.125pt,480.25pt,578.25pt,480.75pt,578.375pt,481.125pt,578.5pt,481.5pt,578.625pt,481.75pt,578.625pt,482pt,578.875pt,482.25pt,579pt,482.5pt,579.25pt,482.75pt,579.375pt,482.875pt,579.875pt,483pt,580.375pt,483pt,580.5pt,483pt,580.625pt,482.875pt,580.75pt,482.375pt"
+   coordsize="175,102" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:shape id="SMARTPenAnnotation135" o:spid="_x0000_s6219"
+   style='position:absolute;left:576.625pt;top:464.75pt;width:.25pt;height:.125pt;
+   mso-wrap-style:none;v-text-anchor:middle' coordsize="2,1" path="m,l1,,,xe"
+   filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:shape><v:polyline id="SMARTPenAnnotation136" o:spid="_x0000_s6220"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="586.375pt,470.375pt,586.75pt,470.375pt,586.625pt,470.375pt,586.375pt,470.5pt,586.125pt,470.625pt,585.75pt,470.75pt,585.375pt,471pt,585.125pt,471.125pt,584.875pt,471.375pt,584.625pt,471.625pt,584.5pt,471.875pt,584.5pt,472pt,584.375pt,472.375pt,584pt,473.125pt,583.875pt,473.75pt,583.75pt,474.375pt,583.75pt,475.125pt,583.75pt,475.875pt,583.875pt,476.625pt,584pt,477.375pt,584.125pt,478pt,584.375pt,478.625pt,584.625pt,479.125pt,585pt,479.625pt,585.5pt,480.125pt,586pt,480.625pt,586.5pt,481pt,586.875pt,481.25pt,587.125pt,481.375pt,587.5pt,481.5pt,587.875pt,481.5pt,588.375pt,481.5pt,588.75pt,481.5pt,589pt,481.375pt,590.5pt,480.625pt,590.875pt,480.375pt,591.125pt,480.25pt,591.5pt,480pt,591.625pt,479.75pt,591.75pt,479.5pt,591.875pt,479.25pt,591.875pt,479pt,592pt,478.625pt,592pt,478.25pt,592pt,477.75pt,592pt,476.875pt,592pt,476.5pt,591.875pt,476pt,591.625pt,475.5pt,591.5pt,475.125pt,591.25pt,474.625pt,590.875pt,473.625pt,590.375pt,472.75pt,590.125pt,472.25pt,589.75pt,471.75pt,589.25pt,471.375pt,588.875pt,470.875pt,588.5pt,470.625pt,586.25pt,469.125pt,585.875pt,468.75pt,585.5pt,468.5pt,585pt,467.625pt"
+   coordsize="67,112" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline><v:polyline id="SMARTPenAnnotation137" o:spid="_x0000_s6221"
+   style='position:absolute;mso-wrap-style:none;v-text-anchor:middle' points="591.375pt,469.75pt,591.75pt,470.375pt,592.125pt,471pt,592.5pt,471.625pt,592.75pt,472pt,593pt,472.375pt,593.5pt,473.25pt,593.625pt,473.75pt,593.875pt,474.25pt,594.125pt,474.875pt,594.375pt,475.5pt,594.5pt,476pt,594.625pt,476.625pt,594.75pt,477.125pt,594.875pt,477.75pt,595.25pt,478.5pt,595.5pt,479.25pt,595.875pt,480.125pt,596.75pt,482.625pt,596.875pt,482.5pt,596.875pt,482.25pt,596.875pt,481.75pt,596.875pt,480.875pt,597pt,477.625pt,597pt,476.75pt,597.125pt,476.125pt,597.375pt,475.625pt,597.625pt,475pt,597.875pt,474.375pt,598.25pt,473.75pt,598.625pt,473.375pt,598.875pt,473.125pt,599.25pt,472.875pt,599.75pt,472.625pt,600.25pt,472.625pt,600.625pt,472.5pt,601.125pt,472.5pt,601.375pt,472.625pt,601.75pt,472.875pt,602pt,473.25pt,602.375pt,473.5pt,602.75pt,473.875pt,603.125pt,474.125pt,603.5pt,474.5pt,603.875pt,475pt,604.125pt,475.625pt,604.625pt,476.375pt,606pt,478.625pt,606.625pt,479.75pt,607.25pt,480.75pt,607.75pt,481.75pt,608.25pt,482.625pt,608.625pt,483.5pt,611pt,489.375pt"
+   coordsize="158,158" filled="f" fillcolor="#bbe0e3 [4]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:polyline></p:shaperange>
+</xml>
